@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "872952e6b757956a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45a487942d32df8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8a92d87c4fc47f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a4c657f57b53ac34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/01_TipadoBasico/01 Tipos TypeScript.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cb24430b281e5ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9162aa24c76f9d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8715c2c8849d88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e01bd5daa1fb6f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3190991c0d29d1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "851998f415a8da5f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "4292db9875678a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b0b55af8839f2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0374d15223f6cb3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d18997b1d178a9d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eeef453d4359b1e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a49726efe446f012",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ee8a92d87c4fc47f",
+  "lastOpenFiles": [
+    "TypeScript/01_TipadoBasico/01 Tipos TypeScript.md",
+    "Desarrollo de interfaces/API .NET/01 API .Net.md",
+    "Sin título.canvas",
+    "2023-12-20.md",
+    "Desarrollo de interfaces/API .NET/00 API .md",
+    "Desarrollo de interfaces/API .NET/ANEXO/crear-controller-webapi.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/WebApiConfig.cs.png",
+    "Desarrollo de interfaces/API .NET/ANEXO",
+    "Desarrollo de interfaces/API .NET",
+    "Android",
+    "Desarrollo de interfaces",
+    "Java",
+    "Angular",
+    "TypeScript/01_TipadoBasico/02 Tipo any.md",
+    "TypeScript/00_Entorno/03_Errores_Depuracion.md",
+    "TypeScript/00_Entorno/00_Instalacion.md",
+    "TypeScript/00_Entorno/00_Instalacion_Configuracion_Typescript.pdf",
+    "TypeScript/01_TiposBasicos",
+    "TypeScript/01_TipadoBasico/ANEXO/typeof.png",
+    "TypeScript/01_TipadoBasico/ANEXO/error-tipo-inferido.png",
+    "TypeScript/01_TipadoBasico/ANEXO/error-number.png",
+    "TypeScript/01_TipadoBasico/ANEXO",
+    "TypeScript/01_TipadoBasico",
+    "TypeScript/00_Entorno/ANEXO/tscVersion.png",
+    "TypeScript/00_Entorno/ANEXO/tscmanual.png",
+    "TypeScript/00_Entorno/ANEXO/tsc-init_tsconfig.png",
+    "TypeScript/00_Entorno/ANEXO/solucion_problemaequipo.png",
+    "TypeScript/00_Entorno/ANEXO/solucionPolicyUnrestricted.png",
+    "TypeScript/00_Entorno/02 Depuración VsCode.md",
+    "TypeScript/00_Entorno/01_Configuracion.md",
+    "01_TipadoBasico/02 Tipo any.md",
+    "01_TipadoBasico/01 Tipos TypeScript.md",
+    "00_Entorno/01_Configuracion.md",
+    "00_Entorno/02 Depuración VsCode.md",
+    "00_Entorno/03_Errores_Depuracion.md",
+    "00_Entorno/00_Instalacion.md",
+    "01_TipadoBasico/00 Contenido de la Seccion.md",
+    "Spaces/prueba/prueba.md",
+    "Spaces/Home/Sin título.md",
+    "Spaces/Home/Programacion/Programacion.md",
+    "archivo-laucn.json.png{width=20%}.md",
+    "Pasted image 20231219185115.png.md",
+    "depuradorvscode.png {width=50%}.md",
+    "2023-12-19.md",
+    "README.md"
+  ]
+}

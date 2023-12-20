@@ -1,0 +1,1 @@
+Es uno de los tipos vistos en los [[01 Tipos TypeScript|tipos de TS]] y en concreto un tipo de dato con el que debemos tener cuidado.
