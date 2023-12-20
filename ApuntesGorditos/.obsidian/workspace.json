@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md",
+                "file": "Desarrollo de interfaces/API .NET/01-API .Net.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,13 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/01_TipadoBasico/01 Tipos TypeScript.md",
-                "mode": "preview",
+                "file": "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a34e2328096b2ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de interfaces/API .NET/01-API .Net.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,6 +99,14 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "9cfb6d38ef64b21c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -107,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md",
+                "file": "Desarrollo de interfaces/API .NET/01-API .Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md",
+                "file": "Desarrollo de interfaces/API .NET/01-API .Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/01 API .Net.md"
+                "file": "Desarrollo de interfaces/API .NET/01-API .Net.md"
               }
             }
           }
@@ -168,13 +189,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ee8a92d87c4fc47f",
+  "active": "a34e2328096b2ff1",
   "lastOpenFiles": [
-    "TypeScript/01_TipadoBasico/01 Tipos TypeScript.md",
-    "Desarrollo de interfaces/API .NET/01 API .Net.md",
+    "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
+    "Desarrollo de interfaces/API .NET/01-API .Net.md",
+    "Desarrollo de interfaces/API .NET/00-API .md",
+    "00 API.md",
     "Sin título.canvas",
+    "Java/Patrones/01 Estructurales/Adapter.md",
+    "Java/Patrones/02 Comportamiento/Publisher.md",
+    "Java/Patrones/02 Comportamiento/State.md",
     "2023-12-20.md",
-    "Desarrollo de interfaces/API .NET/00 API .md",
+    "Java/Patrones/00 Creacionales/Abstract Factory.md",
+    "Java/Patrones/02 Comportamiento",
+    "Java/Patrones/01 Estructurales",
+    "Java/Patrones/00 Creacionales",
+    "Java/Patrones",
     "Desarrollo de interfaces/API .NET/ANEXO/crear-controller-webapi.png",
     "Desarrollo de interfaces/API .NET/ANEXO/WebApiConfig.cs.png",
     "Desarrollo de interfaces/API .NET/ANEXO",
@@ -183,16 +213,12 @@
     "Desarrollo de interfaces",
     "Java",
     "Angular",
-    "TypeScript/01_TipadoBasico/02 Tipo any.md",
+    "TypeScript/01_TiposBasicos/02 Tipo any.md",
     "TypeScript/00_Entorno/03_Errores_Depuracion.md",
     "TypeScript/00_Entorno/00_Instalacion.md",
-    "TypeScript/00_Entorno/00_Instalacion_Configuracion_Typescript.pdf",
-    "TypeScript/01_TiposBasicos",
-    "TypeScript/01_TipadoBasico/ANEXO/typeof.png",
-    "TypeScript/01_TipadoBasico/ANEXO/error-tipo-inferido.png",
-    "TypeScript/01_TipadoBasico/ANEXO/error-number.png",
-    "TypeScript/01_TipadoBasico/ANEXO",
-    "TypeScript/01_TipadoBasico",
+    "TypeScript/01_TiposBasicos/ANEXO/typeof.png",
+    "TypeScript/01_TiposBasicos/ANEXO/error-tipo-inferido.png",
+    "TypeScript/01_TiposBasicos/ANEXO/error-number.png",
     "TypeScript/00_Entorno/ANEXO/tscVersion.png",
     "TypeScript/00_Entorno/ANEXO/tscmanual.png",
     "TypeScript/00_Entorno/ANEXO/tsc-init_tsconfig.png",
@@ -210,10 +236,6 @@
     "Spaces/prueba/prueba.md",
     "Spaces/Home/Sin título.md",
     "Spaces/Home/Programacion/Programacion.md",
-    "archivo-laucn.json.png{width=20%}.md",
-    "Pasted image 20231219185115.png.md",
-    "depuradorvscode.png {width=50%}.md",
-    "2023-12-19.md",
-    "README.md"
+    "archivo-laucn.json.png{width=20%}.md"
   ]
 }

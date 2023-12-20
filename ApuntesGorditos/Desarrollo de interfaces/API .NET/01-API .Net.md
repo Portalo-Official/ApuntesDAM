@@ -33,6 +33,7 @@ Una vez ahí elegir la opción *Web Api*  en blanco.
 ![[crear-controller-webapi.png]]
 
 Empezamos creando el controlador para temas.
+Sus funciones irán decoradas con los verbos de una 
 
 ````c#  title=temasController
 [HttpGet]
