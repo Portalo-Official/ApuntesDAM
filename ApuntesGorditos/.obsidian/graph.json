@@ -5,17 +5,17 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "TS path:TypeScript  ",
+      "query": "path:TypeScript  ",
       "color": {
         "a": 1,
         "rgb": 3504355
       }
     },
     {
-      "query": "Java path:Java ",
+      "query": "path:Java  ",
       "color": {
         "a": 1,
         "rgb": 14990962
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 12412160
+      }
+    },
+    {
+      "query": "path:\"Desarrollo de interfaces\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 18207
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 12.3917525773196,
   "linkStrength": 0.603092783505155,
   "linkDistance": 304,
-  "scale": 0.3242333202184637,
-  "close": false
+  "scale": 0.6554983534946924,
+  "close": true
 }

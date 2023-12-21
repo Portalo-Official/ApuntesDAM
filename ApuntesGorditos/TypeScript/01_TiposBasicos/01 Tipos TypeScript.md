@@ -14,11 +14,11 @@ Existen muchos tipos nativos en JavaScript
 Recordad que hay datos simples y datos complejos (que son objetos).
 Tipos de TypeScript:
 
-- any
+- [[02 Tipo any|any]]
 - unknow
-- arrays
-- tuplas
-- Enums
+- [[03 Arrays#Arrays|arrays]]
+- [[04 Tuplas|tuplas]]
+- [[05 Enums|Enums]]
 - never
 
 TypeScript también tiene una funcionalidad que se denomina *tipos inferidos*
@@ -64,6 +64,8 @@ presupuesto = false // dara error
 
 #### tipo inferido
 
+Tipo inferido sucede cuando declaramos una variable sin indicar su tipo pero le asignamos un valor, la variable cogerá el tipo del valor para siempre.
+
 ````typescript hl:4 title="Tipo inferido"
 var sueldo: number = 200 // Es number siempre
 let pagado = true // Es boolean de manera inferida
@@ -73,4 +75,20 @@ pagado = "Esta pagado " // Arroja Error
 
 ![[error-tipo-inferido.png|700]]
 
+***Importante:*** No confundir con declarar una variable sin asignarle un valor en la misma sentencia.
 
+`{typescript}let variable;//Aqui no se esta infiriendo ningun tipo de dato      `
+
+en este caso  *variable* es de tipo **any**.
+
+```typescript title="Mal tipo inferido"
+let variable;
+variable = "Que soy? nadie lo sabe.." // Parece que es tipo string
+console.log(typeof(variable)) // Saldra string
+variable = 24 //No arroja error
+console.log(typeof(variable)) // Imprime number
+```
+
+En la línea 3, imprime string, pues es el tipo del valor que contiene, pero si en VsCode pasamos por encima el ratón a variable saldrá:
+
+![[mal-tipo-inferido.png|500]]
