@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,12 +96,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 261.5
   },
   "right": {
     "id": "4292db9875678a45",
@@ -128,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/01_TiposBasicos/06 Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/01_TiposBasicos/06 Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScript/01_TiposBasicos/06 Objetos.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,9 +173,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8c373f90ca163cb6",
+  "active": "b46c9db5a8362ef2",
   "lastOpenFiles": [
+    "TypeScript/01_TiposBasicos/06 Objetos.md",
     "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
+    "TypeScript/03_POO_TS/01 Clases en TS.md",
+    "TypeScript/03_POO_TS/00 Seccion POO.md",
+    "TypeScript/02_TiposAvanzados/00 Tipos Avanzados.md",
+    "TypeScript/03_POO_TS",
+    "TypeScript/02_TiposAvanzados",
+    "TypeScript/01_TiposBasicos/02 Tipo any.md",
     "TypeScript/01_TiposBasicos/05 Enums.md",
     "TypeScript/01_TiposBasicos/ANEXO/comparar-enums.png",
     "TypeScript/01_TiposBasicos/ANEXO/tipar-variable-enum.png",
@@ -189,8 +191,6 @@
     "Desarrollo de interfaces/API .NET/01-API .Net.md",
     "Desarrollo de interfaces/API .NET/00-API .md",
     "TypeScript/01_TiposBasicos/ANEXO/error-const-reasignedvalua-ts.png",
-    "TypeScript/01_TiposBasicos/02 Tipo any.md",
-    "TypeScript/01_TiposBasicos/06 Objetos.md",
     "TypeScript/01_TiposBasicos/ANEXO/error-tupla-push.png",
     "TypeScript/01_TiposBasicos/ANEXO/autocompletar-array.png",
     "TypeScript/01_TiposBasicos/ANEXO/errores-tupla.png",
@@ -215,16 +215,12 @@
     "Java/Patrones",
     "Desarrollo de interfaces/API .NET/ANEXO",
     "Desarrollo de interfaces/API .NET",
-    "Android",
-    "Desarrollo de interfaces",
     "TypeScript/00_Entorno/03_Errores_Depuracion.md",
     "TypeScript/00_Entorno/00_Instalacion.md",
     "01_TipadoBasico/02 Tipo any.md",
     "01_TipadoBasico/01 Tipos TypeScript.md",
     "00_Entorno/01_Configuracion.md",
     "00_Entorno/02 Depuración VsCode.md",
-    "00_Entorno/03_Errores_Depuracion.md",
-    "00_Entorno/00_Instalacion.md",
-    "01_TipadoBasico/00 Contenido de la Seccion.md"
+    "00_Entorno/03_Errores_Depuracion.md"
   ]
 }

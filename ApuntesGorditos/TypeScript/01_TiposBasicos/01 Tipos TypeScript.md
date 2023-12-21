@@ -1,5 +1,5 @@
 este contenido se practicara en el repositorio e [github](https://github.com/santiagoieshna/TypeScriptPRacticando). en la carpeta 
-*01-TiposBasicos* y se llevara a cabo la estructura de directorios de [[01_Configuracion#Configuracion Directorios|Configuracion de directorios]] y los comandos para [[01_Configuracion#Configuración de TypeScript|tsconfig.json]] 
+*01-TiposBasicos* y se llevara a cabo la estructura de directorios de [[01_Configuracion#Configuracion Directorios|Configuración de directorios]] y los comandos para [[01_Configuracion#Configuración de TypeScript|tsconfig.json]] 
 # Tipos Nativos JS
 
 Existen muchos tipos nativos en JavaScript 
@@ -9,9 +9,9 @@ Existen muchos tipos nativos en JavaScript
 - boolean
 - null
 - undefined
-- function ***(dato simple?? no me suena..)
+- function 
+- [[06 Objetos|Objeto]]
 
-Recordad que hay datos simples y datos complejos (que son objetos).
 Tipos de TypeScript:
 
 - [[02 Tipo any|any]]
