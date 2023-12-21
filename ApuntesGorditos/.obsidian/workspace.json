@@ -15,26 +15,34 @@
               "type": "markdown",
               "state": {
                 "file": "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "0213e7dfefabd37c",
+            "id": "b46c9db5a8362ef2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c373f90ca163cb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/01_TiposBasicos/05 Enums.md",
-                "mode": "preview",
+                "file": "TypeScript/01_TiposBasicos/06 Objetos.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,24 +95,9 @@
               "type": "mk-path-view",
               "state": {}
             }
-          },
-          {
-            "id": "9cfb6d38ef64b21c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d692a82c72b7e181",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/01_TiposBasicos/05 Enums.md",
+                "file": "TypeScript/01_TiposBasicos/06 Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/01_TiposBasicos/05 Enums.md",
+                "file": "TypeScript/01_TiposBasicos/06 Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/01_TiposBasicos/05 Enums.md"
+                "file": "TypeScript/01_TiposBasicos/06 Objetos.md"
               }
             }
           }
@@ -185,13 +178,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0213e7dfefabd37c",
+  "active": "8c373f90ca163cb6",
   "lastOpenFiles": [
-    "TypeScript/01_TiposBasicos/04 Tuplas.md",
     "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
+    "TypeScript/01_TiposBasicos/05 Enums.md",
+    "TypeScript/01_TiposBasicos/ANEXO/comparar-enums.png",
+    "TypeScript/01_TiposBasicos/ANEXO/tipar-variable-enum.png",
+    "TypeScript/01_TiposBasicos/ANEXO/error-const-reassigment-js.png",
+    "TypeScript/01_TiposBasicos/04 Tuplas.md",
+    "Desarrollo de interfaces/API .NET/01-API .Net.md",
+    "Desarrollo de interfaces/API .NET/00-API .md",
+    "TypeScript/01_TiposBasicos/ANEXO/error-const-reasignedvalua-ts.png",
     "TypeScript/01_TiposBasicos/02 Tipo any.md",
     "TypeScript/01_TiposBasicos/06 Objetos.md",
-    "TypeScript/01_TiposBasicos/05 Enums.md",
     "TypeScript/01_TiposBasicos/ANEXO/error-tupla-push.png",
     "TypeScript/01_TiposBasicos/ANEXO/autocompletar-array.png",
     "TypeScript/01_TiposBasicos/ANEXO/errores-tupla.png",
@@ -200,15 +199,9 @@
     "TypeScript/00_Entorno/01_Configuracion.md",
     "TypeScript/00_Entorno/ANEXO/consejo-anyimplicito.png",
     "TypeScript/00_Entorno/ANEXO/parametro-noImplicitAny.png",
-    "TypeScript/00_Entorno/ANEXO/parametro-strict.png",
-    "TypeScript/00_Entorno/ANEXO/parametro-noImplicitAny.png",
-    "TypeScript/01_TiposBasicos/ANEXO/tipo-any-funcion.png",
-    "Desarrollo de interfaces/API .NET/01-API .Net.md",
-    "TypeScript/01_TiposBasicos/ANEXO/mal-tipo-inferido.png",
     "TypeScript/00_Entorno/02 Depuración VsCode.md",
     "Spaces/Home",
     "Spaces",
-    "Desarrollo de interfaces/API .NET/00-API .md",
     "00 API.md",
     "Sin título.canvas",
     "Java/Patrones/01 Estructurales/Adapter.md",
@@ -232,7 +225,6 @@
     "00_Entorno/02 Depuración VsCode.md",
     "00_Entorno/03_Errores_Depuracion.md",
     "00_Entorno/00_Instalacion.md",
-    "01_TipadoBasico/00 Contenido de la Seccion.md",
-    "Spaces/prueba/prueba.md"
+    "01_TipadoBasico/00 Contenido de la Seccion.md"
   ]
 }

@@ -15,7 +15,7 @@ Una tupla, es inmutable en su elementos, tanto en:
 
 Pero si *es mutable* en el valor.
 
-***Nota***: En python las tuplas son inmutables. En TS no, se puede cambiar el valor, pero no el numero de elementos.
+***Nota***: En python las tuplas son inmutables. En TS "no", se puede cambiar el valor, pero no el numero de elementos y tipo de dato.
 ### Declaración
 
 ```typescript title="Tupla implicita"
