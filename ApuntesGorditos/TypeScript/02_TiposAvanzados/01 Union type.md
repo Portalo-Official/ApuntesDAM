@@ -1,6 +1,8 @@
 ## Contexto
 Union Type es  cuando nosotros podemos usar mas de un solo tipo cuando podemos referirnos a una variable.
 
+Pagina de interés-> [dev.to](https://dev.to/duxtech/fundamentos-de-typescript-7-union-de-tipos-y-type-alias-4o5e)
+
 *Ejemplo*: tenemos una variable para identificar a un jugador de un equipo, y un jugador se puede identificar por su nombre o por su numero de camiseta
 
 ```typescript title="Iddentificar jugador"
