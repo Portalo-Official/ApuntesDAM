@@ -119,5 +119,16 @@ False -> Permite que las variables sean tipo [[02 Tipo any|any]] de manera impl�
 Al esta en false tanto *strict* como este, si generamos aposta una variable any de manera implícita, no nos arroja error pero el sistema nos aconseja no hacer esto.
 ![[consejo-anyimplicito.png]]
 
+##### noUnusedParameters
 
+Lanza un error cuando una función no usa un parámetro. 
+Se habilita para las [[07 Funciones#Undefined|funciones]].
 
+![[parametro-noUnusedParameters.png]]
+
+##### noImplicitReturns
+
+Lanza error si la función manda un error de manera implícita.
+Se habilita para las [[07 Funciones#Undefined|funciones]].
+
+![[parametro-noImplicitReturns.png]]

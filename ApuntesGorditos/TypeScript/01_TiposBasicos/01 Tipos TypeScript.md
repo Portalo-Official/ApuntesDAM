@@ -1,15 +1,17 @@
-este contenido se practicara en el repositorio e [github](https://github.com/santiagoieshna/TypeScriptPRacticando). en la carpeta 
+este contenido se practicara en el repositorio de [github](https://github.com/santiagoieshna/TypeScriptPRacticando). en la carpeta 
 *01-TiposBasicos* y se llevara a cabo la estructura de directorios de [[01_Configuracion#Configuracion Directorios|Configuración de directorios]] y los comandos para [[01_Configuracion#Configuración de TypeScript|tsconfig.json]] 
 # Tipos Nativos JS
 
 Existen muchos tipos nativos en JavaScript 
 
 - number
+- bigint
+- symbol
 - string 
 - boolean
 - null
 - undefined
-- function 
+- [[07 Funciones|function]] 
 - [[06 Objetos|Objeto]]
 
 Tipos de TypeScript:
@@ -19,7 +21,7 @@ Tipos de TypeScript:
 - [[03 Arrays#Arrays|arrays]]
 - [[04 Tuplas|tuplas]]
 - [[05 Enums|Enums]]
-- never
+- [[08 Never|never]]
 
 TypeScript también tiene una funcionalidad que se denomina *tipos inferidos*
 
