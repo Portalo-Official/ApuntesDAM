@@ -27,7 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/02_TiposAvanzados/04 Nullable types.md",
+                "file": "TypeScript/02_TiposAvanzados/08 Type narrowing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afb18e93cbf90759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/00_Entorno/01_Configuracion.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/02_TiposAvanzados/04 Nullable types.md",
+                "file": "TypeScript/02_TiposAvanzados/08 Type narrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/02_TiposAvanzados/04 Nullable types.md",
+                "file": "TypeScript/02_TiposAvanzados/08 Type narrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/02_TiposAvanzados/04 Nullable types.md"
+                "file": "TypeScript/02_TiposAvanzados/08 Type narrowing.md"
               }
             }
           }
@@ -179,52 +191,51 @@
   },
   "active": "bd8715c2c8849d88",
   "lastOpenFiles": [
+    "TypeScript/02_TiposAvanzados/07 Type asertion.md",
+    "TypeScript/02_TiposAvanzados/ANEXO/value-con-sugerencia.png",
+    "TypeScript/02_TiposAvanzados/ANEXO/value-sin-sugerencia.png",
+    "TypeScript/02_TiposAvanzados/ANEXO/si-metodos.png",
+    "TypeScript/02_TiposAvanzados/ANEXO/no-metodos.png",
+    "TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
+    "TypeScript/02_TiposAvanzados/05 Optional Chaining.md",
     "TypeScript/02_TiposAvanzados/03 Literal types.md",
-    "TypeScript/02_TiposAvanzados/01 Union type.md",
+    "TypeScript/02_TiposAvanzados/04 Nullable types.md",
     "TypeScript/02_TiposAvanzados/02 Intersection type.md",
-    "TypeScript/00_Entorno/01_Configuracion.md",
+    "TypeScript/03_POO_TS/00 Seccion POO.md",
     "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
     "TypeScript/02_TiposAvanzados/00 Tipos Avanzados.md",
+    "TypeScript/01_TiposBasicos/07 Type Function.md",
+    "TypeScript/02_TiposAvanzados/ANEXO/solventar-problema-NULL.png",
+    "TypeScript/02_TiposAvanzados/ANEXO",
+    "TypeScript/00_Entorno/01_Configuracion.md",
+    "TypeScript/00_Entorno/ANEXO/parametro-stricNullChecks.png",
+    "TypeScript/02_TiposAvanzados/01 Union type.md",
     "TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
     "TypeScript/02_TiposAvanzados/08 Type narrowing.md",
-    "TypeScript/02_TiposAvanzados/07 Type asertion.md",
-    "TypeScript/02_TiposAvanzados/06 Nullish coalescing operator.md",
-    "TypeScript/02_TiposAvanzados/05 Optional chaining.md",
-    "TypeScript/02_TiposAvanzados/04 Nullable types.md",
     "TypeScript/01_TiposBasicos/08 Never.md",
-    "TypeScript/01_TiposBasicos/07 Funciones.md",
     "TypeScript/01_TiposBasicos/ANEXO/error-reotorno-implicito.png",
     "TypeScript/00_Entorno/ANEXO/parametro-noImplicitReturns.png",
     "TypeScript/01_TiposBasicos/02 Tipo any.md",
     "TypeScript/00_Entorno/ANEXO/parametro-noUnusedParameters.png",
     "TypeScript/01_TiposBasicos/06 Objetos.md",
     "TypeScript/03_POO_TS/01 Clases en TS.md",
-    "TypeScript/03_POO_TS/00 Seccion POO.md",
     "TypeScript/03_POO_TS",
     "TypeScript/02_TiposAvanzados",
     "TypeScript/01_TiposBasicos/05 Enums.md",
     "TypeScript/01_TiposBasicos/ANEXO/comparar-enums.png",
-    "TypeScript/01_TiposBasicos/ANEXO/tipar-variable-enum.png",
-    "TypeScript/01_TiposBasicos/ANEXO/error-const-reassigment-js.png",
     "TypeScript/01_TiposBasicos/04 Tuplas.md",
     "Desarrollo de interfaces/API .NET/01-API .Net.md",
     "Desarrollo de interfaces/API .NET/00-API .md",
-    "TypeScript/01_TiposBasicos/ANEXO/error-const-reasignedvalua-ts.png",
-    "TypeScript/01_TiposBasicos/ANEXO/error-tupla-push.png",
-    "TypeScript/01_TiposBasicos/ANEXO/autocompletar-array.png",
-    "TypeScript/01_TiposBasicos/ANEXO/errores-tupla.png",
     "TypeScript/01_TiposBasicos/03 Arrays.md",
     "TypeScript/00_Entorno/02 Depuración VsCode.md",
     "Spaces/Home",
     "Spaces",
     "00 API.md",
     "Sin título.canvas",
-    "Java/Patrones/01 Estructurales/Adapter.md",
     "Java/Patrones/02 Comportamiento",
     "Java/Patrones/01 Estructurales",
     "Java/Patrones/00 Creacionales",
     "Java/Patrones",
-    "Desarrollo de interfaces/API .NET/ANEXO",
-    "Desarrollo de interfaces/API .NET"
+    "Desarrollo de interfaces/API .NET/ANEXO"
   ]
 }

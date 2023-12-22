@@ -1,3 +1,12 @@
+## Type Function
+
+`Function` indica a una variable que está *solo puede contener una referencia a una funcion*.
+
+`{typescript}let resultado: Function;`
+
+Saber mas de [Type Function](https://dev.to/duxtech/fundamentos-de-typescript-10-type-function-1lic)
+## Funciones
+
 Las funciones se pueden definir de varias formas
 
 ### Definición de variable

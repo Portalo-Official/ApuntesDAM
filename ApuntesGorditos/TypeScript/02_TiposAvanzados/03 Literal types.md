@@ -5,7 +5,7 @@ fuente: [dev.to](https://dev.to/duxtech/fundamentos-de-typescript-8-tipos-litera
 
 Necesidad: Limitar los valores para una variable.
 
-_Ejemplo_
+### _Ejemplo_
 
 Tenemos una variable _diaActual_, que guarda el día actual de la semana.
 

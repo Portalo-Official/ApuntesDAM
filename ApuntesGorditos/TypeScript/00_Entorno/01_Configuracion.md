@@ -122,13 +122,20 @@ Al esta en false tanto *strict* como este, si generamos aposta una variable any 
 ##### noUnusedParameters
 
 Lanza un error cuando una función no usa un parámetro. 
-Se habilita para las [[07 Funciones#Undefined|funciones]].
+Se habilita para las [[07 Type Function#Undefined|funciones]].
 
 ![[parametro-noUnusedParameters.png]]
 
 ##### noImplicitReturns
 
 Lanza error si la función manda un error de manera implícita.
-Se habilita para las [[07 Funciones#Undefined|funciones]].
+Se habilita para las [[07 Type Function#Undefined|funciones]].
 
 ![[parametro-noImplicitReturns.png]]
+
+##### strictNullChecks
+
+Lanza errores cuando asignamos null donde no se debe.
+*Nota*: véase la sección [[04 Nullable types|Trabajando con nulls]]. 
+
+![[parametro-stricNullChecks.png|450]]
