@@ -42,3 +42,13 @@ inputUser.value
 ```
 
 ![[value-con-sugerencia.png]]
+
+## Casteo explicito
+
+Otra manera mas familiar de hacerlo
+
+```typescript
+let input = <HTMLInputElement> document.getElementById('username')
+
+input.value
+```

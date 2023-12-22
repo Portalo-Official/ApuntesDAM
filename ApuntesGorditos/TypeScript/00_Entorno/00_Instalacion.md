@@ -8,13 +8,13 @@ sticker: lucide//settings
 
 ### Paso 2: comprobar todo okey
 
-- comando: node -v
+- comando: `node -v`
 
 ![[nodeVersion.png]]
 
 ### Paso 3: Instalar por la terminal TypeScript
 
-- comando : npm i -g typescript
+- comando : `npm i -g typescript`
 	- npm: gestor de paquetes de node.js
 	- i: install
 	- -g: argumento para ser global
