@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4c657f57b53ac34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "b46c9db5a8362ef2",
             "type": "leaf",
             "state": {
@@ -39,22 +25,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/02_TiposAvanzados/04 Nullable types.md",
+                "file": "TypeScript/03_POO_TS/02 Propiedades.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ae686298d675b43",
+            "id": "abfbdca906db330f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "8ae686298d675b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/03_POO_TS/04 Herencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/03_POO_TS/00 Seccion POO.md",
+                "file": "TypeScript/03_POO_TS/04 Herencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/03_POO_TS/00 Seccion POO.md",
+                "file": "TypeScript/03_POO_TS/04 Herencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/03_POO_TS/00 Seccion POO.md"
+                "file": "TypeScript/03_POO_TS/04 Herencia.md"
               }
             }
           }
@@ -189,18 +187,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bd8715c2c8849d88",
+  "active": "8ae686298d675b43",
   "lastOpenFiles": [
+    "TypeScript/03_POO_TS/03 Elementos Estáticos.md",
+    "TypeScript/03_POO_TS/04 Herencia.md",
+    "TypeScript/03_POO_TS/02 Propiedades.md",
+    "TypeScript/03_POO_TS/03 Prop por Parametro.md",
+    "TypeScript/01_TiposBasicos/06 Objetos.md",
+    "TypeScript/03_POO_TS/00 Seccion POO.md",
+    "TypeScript/02_TiposAvanzados/04 Nullable types.md",
+    "TypeScript/03_POO_TS/01 Clases en TS.md",
+    "TypeScript/03_POO_TS/ANEXO/propiedades-autocompletado.png",
+    "TypeScript/03_POO_TS/ANEXO",
+    "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
+    "TypeScript/02_TiposAvanzados/00 Tipos Avanzados.md",
+    "TypeScript/02_TiposAvanzados/10 CheatSheet.md",
     "TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
     "TypeScript/02_TiposAvanzados/ANEXO/unkwnon-sinGestion.png",
-    "TypeScript/01_TiposBasicos/06 Objetos.md",
-    "TypeScript/02_TiposAvanzados/04 Nullable types.md",
     "TypeScript/02_TiposAvanzados/08 Type narrowing.md",
     "TypeScript/02_TiposAvanzados/07 Type asertion.md",
-    "TypeScript/02_TiposAvanzados/10 CheatSheet.md",
     "TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
     "TypeScript/02_TiposAvanzados/05 Optional Chaining.md",
-    "TypeScript/02_TiposAvanzados/00 Tipos Avanzados.md",
     "TypeScript/00_Entorno/01_Configuracion.md",
     "TypeScript/00_Entorno/02 Depuración VsCode.md",
     "TypeScript/00_Entorno/00_Instalacion.md",
@@ -210,8 +217,6 @@
     "TypeScript/02_TiposAvanzados/ANEXO/no-metodos.png",
     "TypeScript/02_TiposAvanzados/03 Literal types.md",
     "TypeScript/02_TiposAvanzados/02 Intersection type.md",
-    "TypeScript/03_POO_TS/00 Seccion POO.md",
-    "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
     "TypeScript/01_TiposBasicos/07 Type Function.md",
     "TypeScript/02_TiposAvanzados/ANEXO/solventar-problema-NULL.png",
     "TypeScript/02_TiposAvanzados/ANEXO",
@@ -221,21 +226,15 @@
     "TypeScript/01_TiposBasicos/ANEXO/error-reotorno-implicito.png",
     "TypeScript/00_Entorno/ANEXO/parametro-noImplicitReturns.png",
     "TypeScript/01_TiposBasicos/02 Tipo any.md",
-    "TypeScript/00_Entorno/ANEXO/parametro-noUnusedParameters.png",
-    "TypeScript/03_POO_TS/01 Clases en TS.md",
     "TypeScript/03_POO_TS",
     "TypeScript/02_TiposAvanzados",
     "TypeScript/01_TiposBasicos/05 Enums.md",
-    "TypeScript/01_TiposBasicos/04 Tuplas.md",
-    "Desarrollo de interfaces/API .NET/01-API .Net.md",
-    "Desarrollo de interfaces/API .NET/00-API .md",
     "Spaces/Home",
     "Spaces",
     "Sin título.canvas",
     "Java/Patrones/02 Comportamiento",
     "Java/Patrones/01 Estructurales",
     "Java/Patrones/00 Creacionales",
-    "Java/Patrones",
-    "Desarrollo de interfaces/API .NET/ANEXO"
+    "Java/Patrones"
   ]
 }

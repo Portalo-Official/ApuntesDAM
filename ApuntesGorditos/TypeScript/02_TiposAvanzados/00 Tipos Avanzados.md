@@ -13,3 +13,15 @@ Tipos Avanzados
 - [[07 Type asertion|Type assertion]]
 - [[08 Type narrowing|Type narrowing]]
 - [[09 Type Unkwon|Unknown]]
+
+## Cheatsheet
+
+- [Union type](app://obsidian.md/01%20Union%20type) -> `var n: number | string​`
+- [Intersection type](app://obsidian.md/02%20Intersection%20type) -> `var n: clienteNormal & socio​`
+- [Literal type](app://obsidian.md/03%20Literal%20types) -> `var dia: "lunes"| "martes"|"miercoles"​`
+- [Nullable type](app://obsidian.md/04%20Nullable%20types) -> `var n: number | null​`
+- [Optional chaining](app://obsidian.md/05%20Optional%20Chaining) -> `console.log(fn?.());​`
+- [Nullish Coalescing operator](app://obsidian.md/06%20Nullish%20Coalescing%20Operator)-> `{estado: variable ?? 1}​`
+- [Type assertion](app://obsidian.md/07%20Type%20asertion)-> `var n = m as number​`| `var perro=<Perro> animal​`
+- [Type narrowing](app://obsidian.md/08%20Type%20narrowing)
+- [Unknown](app://obsidian.md/09%20Type%20Unkwon)
