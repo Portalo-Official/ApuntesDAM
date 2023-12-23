@@ -139,3 +139,11 @@ Lanza errores cuando asignamos null donde no se debe.
 *Nota*: véase la sección [[04 Nullable types|Trabajando con nulls]]. 
 
 ![[parametro-stricNullChecks.png|450]]
+
+
+##### noImplicitOverride
+
+Obliga a que se use la palabra reservada [[04 Herencia#Override|override]].
+
+
+![[parametro-notImplicitOverride.png]]

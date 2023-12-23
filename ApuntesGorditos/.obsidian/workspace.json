@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/03_POO_TS/04 Herencia.md",
+                "file": "TypeScript/00_Entorno/01_Configuracion.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/03_POO_TS/04 Herencia.md",
+                "file": "TypeScript/00_Entorno/01_Configuracion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/03_POO_TS/04 Herencia.md",
+                "file": "TypeScript/00_Entorno/01_Configuracion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/03_POO_TS/04 Herencia.md"
+                "file": "TypeScript/00_Entorno/01_Configuracion.md"
               }
             }
           }
@@ -187,10 +187,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8ae686298d675b43",
+  "active": "bd8715c2c8849d88",
   "lastOpenFiles": [
-    "TypeScript/03_POO_TS/03 Elementos Estáticos.md",
+    "TypeScript/00_Entorno/ANEXO/parametro-notImplicitOverride.png",
     "TypeScript/03_POO_TS/04 Herencia.md",
+    "TypeScript/03_POO_TS/03 Elementos Estáticos.md",
     "TypeScript/03_POO_TS/02 Propiedades.md",
     "TypeScript/03_POO_TS/03 Prop por Parametro.md",
     "TypeScript/01_TiposBasicos/06 Objetos.md",
@@ -228,7 +229,6 @@
     "TypeScript/01_TiposBasicos/02 Tipo any.md",
     "TypeScript/03_POO_TS",
     "TypeScript/02_TiposAvanzados",
-    "TypeScript/01_TiposBasicos/05 Enums.md",
     "Spaces/Home",
     "Spaces",
     "Sin título.canvas",
