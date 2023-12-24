@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:JavaScript  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15067195
+      }
+    },
+    {
+      "query": "path:TypeScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 2850798
+      }
+    },
+    {
+      "query": "path:Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 14654010
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 8.4020618556701,
   "linkStrength": 1,
   "linkDistance": 218,
-  "scale": 0.324233320218464,
-  "close": false
+  "scale": 0.6554983534946931,
+  "close": true
 }
