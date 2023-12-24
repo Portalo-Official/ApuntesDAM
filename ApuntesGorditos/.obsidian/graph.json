@@ -1,51 +1,30 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:TypeScript  ",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 3504355
-      }
-    },
-    {
-      "query": "path:Java  ",
-      "color": {
-        "a": 1,
-        "rgb": 14990962
-      }
-    },
-    {
-      "query": "Angular path:Angular  ",
-      "color": {
-        "a": 1,
-        "rgb": 12412160
-      }
-    },
-    {
-      "query": "path:\"Desarrollo de interfaces\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 18207
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.15577319587629,
-  "lineSizeMultiplier": 0.61020618556701,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.347422680412371,
-  "repelStrength": 10.7422680412371,
-  "linkStrength": 0.32680412371134,
-  "linkDistance": 151,
+  "centerStrength": 0.387113402061856,
+  "repelStrength": 8.4020618556701,
+  "linkStrength": 1,
+  "linkDistance": 218,
   "scale": 0.324233320218464,
   "close": false
 }
