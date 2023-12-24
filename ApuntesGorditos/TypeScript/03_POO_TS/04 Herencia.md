@@ -63,16 +63,32 @@ class Categoria extends DatosBasicos{
 ```
 
 
-
 ### Override
 
+```typescript title="Override"
+class Producto01 extends DatosBasicos01{
+    constructor
+    (
+        public stock: number,
+        public sku: number,
+  
+        name: string,
+        desc: string,
+        created_at: Date,
+        created_by: number,
+    ) {
+        super(name, desc, created_at, created_by)
+    }
+    // OVERRIDE
+    override get fullDesc(){
+        return 'Producto: '+super.fullDesc
+    }
+}
+```
 
 
-
-
-
-#### Configuracion
+#### Configuración Override
 
 Si no ponemos override, no nos arroja error, pero el programa puede actuar de manera extraña.
 
-Para qeu siempre se exija poner la palabra Override, habilitar [[01_Configuracion]]
+Para qeu siempre se exija poner la palabra Override, habilitar [[01_Configuracion#noImplicitOverride|noImplicitOverride]].

@@ -5,6 +5,12 @@ este contenido se practicara en el repositorio de [github](https://github.com/sa
 
 
 - [[01 Clases en TS|Clases]]
-- [[02 Propiedades|Parametros]]
-- 
+- [[02 Propiedades|Parámetros]]
+- [[03 Elementos Estáticos|Propiedades y Métodos Estáticos]]
+- [[04 Herencia|Herencia]]
+- [[05 Private Protected|Propiedades private y protected]]
+- [[06 Abstract|Abstract]]
+- [[07 Interface|Interface]]
+- [[08 Index Signature|Index Asignature]]
+
 
