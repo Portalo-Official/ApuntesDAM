@@ -16,45 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b46c9db5a8362ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/00-Introduccion/00-Introduccion JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8afab623149df457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/04_Genericos/01 Genéricos en Funciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2633684a6e856f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/00-Introduccion/00-Introduccion JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/00-Introduccion/00-Introduccion JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/00-Introduccion/00-Introduccion JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript/00-Introduccion/00-Introduccion JS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,19 +148,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b46c9db5a8362ef2",
+  "active": "cc0f8f7d09b6742b",
   "lastOpenFiles": [
+    "JavaScript/00-Introduccion/05 Alertas.md",
+    "JavaScript/01-FundamentosJS/00 Índice de la Sección.md",
+    "JavaScript/01-FundamentosJS/06 Desestructuracion.md",
+    "JavaScript/01-FundamentosJS/05 Funciones.md",
+    "JavaScript/01-FundamentosJS/04 Objetos.md",
+    "JavaScript/01-FundamentosJS/03 Arreglos.md",
+    "JavaScript/01-FundamentosJS/02 Palabras reservadas.md",
+    "JavaScript/00-Introduccion/04 Variables.md",
+    "JavaScript/00-Introduccion/00-Introduccion JS.md",
+    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
+    "JavaScript/01-FundamentosJS",
+    "TypeScript/04_Genericos/01 Genéricos en Funciones.md",
+    "JavaScript/00-Introduccion/03 Importaciones.md",
+    "JavaScript/00-Introduccion/01-Depuracion.md",
     "JavaScript/00-Introduccion/02-Consola.md",
+    "JavaScript/00-Introduccion/ANEXO/debugging.png",
+    "JavaScript/00-Introduccion/ANEXO/startdebug-vscode.png",
+    "JavaScript/00-Introduccion/ANEXO/breakpoint-vscode.png",
+    "JavaScript/00-Introduccion/ANEXO/depurar-navegador.png",
+    "JavaScript/00-Introduccion/ANEXO/breakpoint-navegador.png",
+    "JavaScript/00-Introduccion/ANEXO/soirces-navegador.png",
+    "JavaScript/00-Introduccion/ANEXO/Archivos-cargados-navegador.png",
+    "JavaScript/00-Introduccion/ANEXO/consola-navegador.png",
     "JavaScript/00-Introduccion/ANEXO/tiposmensaje-navegador.png",
     "TypeScript/03_POO_TS/00 Seccion POO.md",
-    "JavaScript/00-Introduccion/00-Introduccion JS.md",
     "JavaScript/00-Introduccion/ANEXO/comando-node.png",
-    "JavaScript/00-Introduccion/01-Depuracion.md",
-    "JavaScript/00-Introduccion/ANEXO/tablas-por-consola.png",
     "JavaScript/00-Introduccion/ANEXO",
     "JavaScript/00-Introduccion",
     "JavaScript",
-    "TypeScript/04_Genericos/01 Genéricos en Funciones.md",
     "TypeScript/04_Genericos/02 Genéricos en Clases e Interfaces.md",
     "TypeScript/04_Genericos/03 Restricciones en genéricos.md",
     "TypeScript/04_Genericos/00 Secion Genericos.md",
@@ -214,28 +191,11 @@
     "TypeScript/03_POO_TS/07 Interface.md",
     "TypeScript/03_POO_TS/04 Herencia.md",
     "TypeScript/03_POO_TS/05 Private Protected.md",
-    "TypeScript/03_POO_TS/06 Abstract.md",
-    "TypeScript/03_POO_TS/02 Propiedades.md",
-    "TypeScript/00_Entorno/ANEXO/parametro-notImplicitOverride.png",
-    "TypeScript/03_POO_TS/03 Elementos Estáticos.md",
-    "TypeScript/03_POO_TS/03 Prop por Parametro.md",
-    "TypeScript/01_TiposBasicos/06 Objetos.md",
-    "TypeScript/02_TiposAvanzados/04 Nullable types.md",
-    "TypeScript/03_POO_TS/01 Clases en TS.md",
-    "TypeScript/03_POO_TS/ANEXO/propiedades-autocompletado.png",
     "TypeScript/03_POO_TS/ANEXO",
-    "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
-    "TypeScript/02_TiposAvanzados/10 CheatSheet.md",
-    "TypeScript/02_TiposAvanzados/ANEXO/unkwnon-sinGestion.png",
-    "TypeScript/02_TiposAvanzados/ANEXO/value-con-sugerencia.png",
-    "TypeScript/02_TiposAvanzados/ANEXO/value-sin-sugerencia.png",
-    "TypeScript/02_TiposAvanzados/ANEXO/si-metodos.png",
-    "TypeScript/02_TiposAvanzados/ANEXO/no-metodos.png",
     "TypeScript/02_TiposAvanzados/ANEXO",
     "TypeScript/03_POO_TS",
     "TypeScript/02_TiposAvanzados",
     "Spaces/Home",
-    "Spaces",
     "Sin título.canvas"
   ]
 }

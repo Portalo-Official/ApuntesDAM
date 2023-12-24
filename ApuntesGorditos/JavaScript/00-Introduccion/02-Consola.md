@@ -55,11 +55,7 @@ Ver datos en un tabla:
 
 ![[tablas-por-consola.png|500]]
 
+### Impresión con CSS
 
-
-
-
-
-
-
+`{javascript}console.log('%c Mis variables', 'color:blue; font-weight: bold;')`
 
