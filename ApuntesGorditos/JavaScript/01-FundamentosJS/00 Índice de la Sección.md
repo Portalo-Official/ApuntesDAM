@@ -1,3 +1,4 @@
+
 Se usará todo lo anterior visto en [[00-Introduccion JS|introducción javascript]].
 ## Índice
 
@@ -6,5 +7,6 @@ Se usará todo lo anterior visto en [[00-Introduccion JS|introducción javascrip
 - [[03 Arreglos|Arrays]]
 - [[04 Objetos|Objetos]]
 - [[05 Funciones|Funciones básicas y de flecha]]
-- [[06 Desestructuracion|Funciones y desestructuración de objetos]]
--  
+- [[06 Retorno de funciones|Retorno de las funciones]]
+- [[07 Desestructuracion|Funciones y desestructuración de objetos]]
+
