@@ -26,4 +26,4 @@ Se recomienda ponerlo al final antes de acabar el body, para que el navegador ca
 - [[02-Consola|Consola en javascript]]
 - [[03 Importaciones|Orden y lugar de las importaciones]]
 - [[04 Variables|Variables (var, let, const)]]
-- 
+- [[05 Alertas|Alertas]]

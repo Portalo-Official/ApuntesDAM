@@ -93,7 +93,7 @@ cuando no se tipa el retorno, de manera implícita muchas veces puede retorna un
 Para evitar esto, habilitamos la opción [[01_Configuracion#noImplicitReturns|noImplicitReturns]].
 
 ##### Undefined
-Undefined en Js, es cuando una variable *global* no se le ha asignado un valor
+[[06 Retorno de funciones#undefined|Undefined]] en Js, es cuando una variable *global* no se le ha asignado un valor
 
 ```javascript title="Variable Global sin asignar Valor"
 function test(t) {

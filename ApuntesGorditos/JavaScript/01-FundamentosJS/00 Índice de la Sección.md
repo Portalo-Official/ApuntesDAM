@@ -8,5 +8,5 @@ Se usará todo lo anterior visto en [[00-Introduccion JS|introducción javascrip
 - [[04 Objetos|Objetos]]
 - [[05 Funciones|Funciones básicas y de flecha]]
 - [[06 Retorno de funciones|Retorno de las funciones]]
-- [[07 Desestructuracion|Funciones y desestructuración de objetos]]
+- [[07 Pro Tips Funciones|Funciones y desestructuración de objetos]]
 

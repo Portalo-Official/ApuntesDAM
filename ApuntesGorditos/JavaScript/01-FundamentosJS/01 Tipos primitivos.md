@@ -13,7 +13,7 @@ hay 6 tipos de datos primitivos:
 
 - null -> Sin valor en lo absoluto.
 
-- undefined -> Variable sin asignar valor.
+- undefined -> Variable sin asignar valor. funciones sin return.
 
 - number -> integers, floats, etc. no hay diferencia entre números.
 

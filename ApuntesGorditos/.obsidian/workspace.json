@@ -23,14 +23,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "file": "JavaScript/01-FundamentosJS/04 Objetos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d576b12a5421e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39c449cc2c3ae875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/01_TiposBasicos/07 Type Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md"
+                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md"
               }
             }
           }
@@ -165,25 +189,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bd8715c2c8849d88",
+  "active": "9d576b12a5421e9d",
   "lastOpenFiles": [
+    "JavaScript/01-FundamentosJS/05 Funciones.md",
+    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+    "JavaScript/01-FundamentosJS/06 Retorno de funciones.md",
+    "JavaScript/01-FundamentosJS/00 Índice de la Sección.md",
+    "TypeScript/01_TiposBasicos/07 Type Function.md",
+    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
+    "JavaScript/01-FundamentosJS/04 Objetos.md",
+    "JavaScript/01-FundamentosJS/03 Arreglos.md",
+    "JavaScript/00-Introduccion/00-Introduccion JS.md",
     "JavaScript/01-FundamentosJS/ANEXO/metodosArray2.png",
     "JavaScript/01-FundamentosJS/386313088-JS-Cheat-Sheet.pdf",
     "JavaScript/01-FundamentosJS/palabras-reservadas.pdf",
-    "JavaScript/01-FundamentosJS/03 Arreglos.md",
     "JavaScript/01-FundamentosJS/ANEXO/metodos-array1.png",
     "JavaScript/01-FundamentosJS/ANEXO",
     "JavaScript/01-FundamentosJS/02 Palabras reservadas.md",
-    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
     "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
-    "JavaScript/01-FundamentosJS/00 Índice de la Sección.md",
-    "JavaScript/01-FundamentosJS/06 Retorno de funciones.md",
-    "JavaScript/01-FundamentosJS/07 Desestructuracion.md",
-    "JavaScript/01-FundamentosJS/05 Funciones.md",
     "JavaScript/00-Introduccion/05 Alertas.md",
-    "JavaScript/01-FundamentosJS/04 Objetos.md",
     "JavaScript/00-Introduccion/04 Variables.md",
-    "JavaScript/00-Introduccion/00-Introduccion JS.md",
     "JavaScript/01-FundamentosJS",
     "TypeScript/04_Genericos/01 Genéricos en Funciones.md",
     "JavaScript/00-Introduccion/03 Importaciones.md",
@@ -197,7 +222,6 @@
     "JavaScript/00-Introduccion/ANEXO/soirces-navegador.png",
     "JavaScript/00-Introduccion/ANEXO/Archivos-cargados-navegador.png",
     "JavaScript/00-Introduccion/ANEXO/consola-navegador.png",
-    "JavaScript/00-Introduccion/ANEXO/tiposmensaje-navegador.png",
     "TypeScript/03_POO_TS/00 Seccion POO.md",
     "JavaScript/00-Introduccion/ANEXO",
     "JavaScript/00-Introduccion",
