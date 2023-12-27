@@ -1,4 +1,6 @@
+# Resumen
 
+`{javascript} modo: difficulty ?? 1` --> Nullish ___??___ : si es null coge la otra opción.
 ## Contexto
 
 Sirve para coger valores por defecto.
@@ -19,7 +21,7 @@ const user2 = {
 }
 ```
 
-Cuando usamos OR, el evalúa a través de falsy.
+[[03 Operadores#Asignaciones|Asignaciones con operadores]]: Cuando usamos OR, el evalúa a través de falsy.
 
 Ver mas: [truthy y falsy](https://arielfuggini.com/javascript-valores-truthy-falsy/)
 
@@ -35,6 +37,8 @@ falsy da falso en los siguiente casos:
 En nuestro caso el 0  nos puede interesar.
 
 Si ponemos `{typescript}const dificulty: number | null = 0` , lo toma como falso poniendo 1 como opción.
+
+### Nullish
 
 Para estos casos se usa el ***Nullish***, se declara con _??_
 

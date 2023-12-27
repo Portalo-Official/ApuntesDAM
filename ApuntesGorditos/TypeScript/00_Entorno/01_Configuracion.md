@@ -1,6 +1,3 @@
----
-sticker: lucide//settings
----
 
 ## ¿De que rollo va TypeScript? 
 
@@ -49,6 +46,12 @@ Cuando tengamos que cambiar alguna la cambiaremos.
 - el comando *tsc* sin nada mas hará las conversiones necesarias, con la configuración asignada
 
 *Nota*: Si ahora tuviéramos un ts fuera de src (menos en dist), en el mismo nivel de tsconfig.json, nos saltara error de que no todos los archivos están en src.
+
+#### Modo Watch
+
+Un modo donde el compilador estará constantemente viendo si ha habido algún cambio en un fichero, si lo hay y sin errores, transpila el código a JS.
+
+`{bash}tsc archivo.ts --watch`
 
 ### Parámetros básicos en tsconfig.json
 

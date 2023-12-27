@@ -1,6 +1,3 @@
----
-sticker: lucide//settings
----
 ## Pasos
 
 ### Paso 1: Instalar node.js

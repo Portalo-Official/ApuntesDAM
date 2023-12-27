@@ -64,3 +64,31 @@ console.log(edad); // 23
 console.log(nombre); // Ana
 ```
 
+#### Desestructuración de argumentos
+
+Pasamos un objeto a una funcion que en sus parámetros están las propiedades del objeto.
+
+```javascript title="Desestructuración de argumentos"
+let peter = {
+    name: 'Peter',
+    apellido: ' Parker',
+    edad: 23,
+    vivo: true,
+    estudios: 'actor'
+} 
+
+const printProp= ({name='', apellido='', edad=8, vivo ,estudios})=>
+{
+    console.log({name});
+    console.log({apellido});
+    console.log({edad});
+    console.log({vivo});
+    console.log({estudios});
+}
+printProp(peter);
+```
+
+
+
+
+

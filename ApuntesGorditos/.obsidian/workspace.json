@@ -18,43 +18,31 @@
             }
           },
           {
-            "id": "07695c1c8d824fd6",
+            "id": "91c45bf4916c5fa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/04 Objetos.md",
+                "file": "JavaScript/02-Estructuras_de_Control/04 While - Do While.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d576b12a5421e9d",
+            "id": "b960b2f7c5500e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39c449cc2c3ae875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/01_TiposBasicos/07 Type Function.md",
+                "file": "JavaScript/02-Estructuras_de_Control/01 Estructuras de control.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "falsy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+                "file": "JavaScript/02-Estructuras_de_Control/04 While - Do While.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+                "file": "JavaScript/02-Estructuras_de_Control/04 While - Do While.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md"
+                "file": "JavaScript/02-Estructuras_de_Control/04 While - Do While.md"
               }
             }
           }
@@ -189,31 +177,44 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9d576b12a5421e9d",
+  "active": "bd8715c2c8849d88",
   "lastOpenFiles": [
-    "JavaScript/01-FundamentosJS/05 Funciones.md",
-    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
-    "JavaScript/01-FundamentosJS/06 Retorno de funciones.md",
+    "JavaScript/02-Estructuras_de_Control/01 Estructuras de control.md",
+    "JavaScript/02-Estructuras_de_Control/03 Operadores.md",
+    "JavaScript/02-Estructuras_de_Control/00 Temas de la seccion.md",
+    "JavaScript/02-Estructuras_de_Control/05 For - in on.md",
+    "JavaScript/02-Estructuras_de_Control/04 Switch.md",
+    "TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
+    "TypeScript/03_POO_TS/02 Propiedades.md",
+    "TypeScript/03_POO_TS/06 Abstract.md",
+    "TypeScript/03_POO_TS/05 Private Protected.md",
+    "JavaScript/02-Estructuras_de_Control/02 Paso por Valor - Referencia.md",
+    "JavaScript/03-Patron_Modulo/00 Introduccion a la sección.md",
+    "JavaScript/02-Estructuras_de_Control/01 Estructuras Control de flujo.md",
     "JavaScript/01-FundamentosJS/00 Índice de la Sección.md",
-    "TypeScript/01_TiposBasicos/07 Type Function.md",
-    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
-    "JavaScript/01-FundamentosJS/04 Objetos.md",
     "JavaScript/01-FundamentosJS/03 Arreglos.md",
-    "JavaScript/00-Introduccion/00-Introduccion JS.md",
+    "JavaScript/03-Patron_Modulo/03 Optimizaciones.md",
+    "JavaScript/03-Patron_Modulo/Sin título.md",
+    "JavaScript/03-Patron_Modulo/02 Patrón Módulo.md",
+    "JavaScript/03-Patron_Modulo/01 Problemática.md",
+    "JavaScript/03-Patron_Modulo",
+    "JavaScript/02-Estructuras_de_Control/03 Romper referencia.md",
+    "JavaScript/02-Estructuras_de_Control/ANEXO/paso-por-referencia.png",
+    "JavaScript/02-Estructuras_de_Control/ANEXO",
+    "JavaScript/02-Estructuras_de_Control/04 if else.md",
+    "JavaScript/02-Estructuras_de_Control/04 While - Do While.md",
+    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+    "JavaScript/02-Estructuras_de_Control",
+    "JavaScript/01-FundamentosJS/04 Objetos.md",
+    "TypeScript/00_Entorno/01_Configuracion.md",
+    "TypeScript/00_Entorno/00_Instalacion.md",
+    "TypeScript/00_Entorno/02 Depuración VsCode.md",
     "JavaScript/01-FundamentosJS/ANEXO/metodosArray2.png",
     "JavaScript/01-FundamentosJS/386313088-JS-Cheat-Sheet.pdf",
     "JavaScript/01-FundamentosJS/palabras-reservadas.pdf",
     "JavaScript/01-FundamentosJS/ANEXO/metodos-array1.png",
     "JavaScript/01-FundamentosJS/ANEXO",
-    "JavaScript/01-FundamentosJS/02 Palabras reservadas.md",
-    "TypeScript/01_TiposBasicos/01 Tipos TypeScript.md",
-    "JavaScript/00-Introduccion/05 Alertas.md",
-    "JavaScript/00-Introduccion/04 Variables.md",
     "JavaScript/01-FundamentosJS",
-    "TypeScript/04_Genericos/01 Genéricos en Funciones.md",
-    "JavaScript/00-Introduccion/03 Importaciones.md",
-    "JavaScript/00-Introduccion/01-Depuracion.md",
-    "JavaScript/00-Introduccion/02-Consola.md",
     "JavaScript/00-Introduccion/ANEXO/debugging.png",
     "JavaScript/00-Introduccion/ANEXO/startdebug-vscode.png",
     "JavaScript/00-Introduccion/ANEXO/breakpoint-vscode.png",
@@ -221,22 +222,9 @@
     "JavaScript/00-Introduccion/ANEXO/breakpoint-navegador.png",
     "JavaScript/00-Introduccion/ANEXO/soirces-navegador.png",
     "JavaScript/00-Introduccion/ANEXO/Archivos-cargados-navegador.png",
-    "JavaScript/00-Introduccion/ANEXO/consola-navegador.png",
-    "TypeScript/03_POO_TS/00 Seccion POO.md",
     "JavaScript/00-Introduccion/ANEXO",
     "JavaScript/00-Introduccion",
     "JavaScript",
-    "TypeScript/04_Genericos/02 Genéricos en Clases e Interfaces.md",
-    "TypeScript/04_Genericos/03 Restricciones en genéricos.md",
-    "TypeScript/04_Genericos/00 Secion Genericos.md",
-    "TypeScript/02_TiposAvanzados/00 Tipos Avanzados.md",
-    "TypeScript/04_Genericos/06 Utility types.md",
-    "TypeScript/04_Genericos/05 Operador keyof.md",
-    "TypeScript/04_Genericos/04 Genéricos y herencia.md",
-    "TypeScript/04_Genericos",
-    "TypeScript/03_POO_TS/08 Index Signature.md",
-    "TypeScript/03_POO_TS/ANEXO",
-    "TypeScript/02_TiposAvanzados/ANEXO",
     "Sin título.canvas"
   ]
 }
