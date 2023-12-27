@@ -23,24 +23,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/02-Estructuras_de_Control/05 For - in of.md",
+                "file": "JavaScript/03-DOM/00 DOM Indice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fb13d1df83839a7",
+            "id": "ef630589bebff5cf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "JavaScript/Libreria Terceros/01 UNDERSCORE.JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f32c0d0acaa45cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/02-Estructuras_de_Control/05 For - in of.md",
+                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/02-Estructuras_de_Control/05 For - in of.md",
+                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/02-Estructuras_de_Control/05 For - in of.md"
+                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md"
               }
             }
           }
@@ -176,54 +189,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "91c45bf4916c5fa3",
+  "active": "3f32c0d0acaa45cd",
   "lastOpenFiles": [
-    "JavaScript/02-Estructuras_de_Control/00 Temas de la seccion.md",
+    "JavaScript/03-DOM/02 Lógica del juego.md",
+    "JavaScript/Libreria Terceros/01 UNDERSCORE.JS.md",
+    "JavaScript/03-DOM/00 DOM Indice.md",
+    "JavaScript/03-DOM/01 Laboratorio 1-Blackjack.md",
+    "[Laboratorio 1-Blackjack.md",
+    "JavaScript/Libreria Terceros/ANEXO/comprimido-underscore.png",
+    "JavaScript/Libreria Terceros/ANEXO/comprimido-underscore.png",
+    "JavaScript/Libreria Terceros/ANEXO",
+    "JavaScript/Libreria Terceros/Libreria terceros indice.md",
+    "JavaScript/Libreria Terceros",
+    "JavaScript/04-DOM/ANEXO/comprimido-underscore.png",
+    "JavaScript/04-DOM/ANEXO",
+    "CSS/Bootstrap/00 Indice.md",
+    "JavaScript/01-FundamentosJS/00 Fundamentos.md",
+    "CSS/Bootstrap/Layout/03 Breakpoints.md",
+    "CSS/Bootstrap/Layout/00 Layout Indice.md",
+    "CSS/Bootstrap/Layout/02 Columns.md",
+    "CSS/Bootstrap/Layout/01 Containers.md",
+    "CSS/Bootstrap/Components/00 Indice Components.md",
+    "CSS/Bootstrap/Layout",
+    "CSS/Bootstrap/Components/01 Buttons.md",
+    "CSS/Bootstrap/Components",
+    "CSS/Bootstrap/Utilities/00 Utilities.md",
+    "CSS/Bootstrap/Utilities/02 Backgroung.md",
+    "CSS/Bootstrap/Utilities/01 Spacing.md",
+    "CSS/Bootstrap/Utilities",
+    "CSS/Bootstrap/01 Comenzar.md",
+    "CSS/Bootstrap",
+    "CSS",
     "JavaScript/02-Estructuras_de_Control/05 For - in of.md",
+    "JavaScript/03-DOM",
+    "JavaScript/02-Estructuras_de_Control/00 Control Flujo Indice.md",
     "JavaScript/02-Estructuras_de_Control/04 While - Do While.md",
     "JavaScript/02-Estructuras_de_Control/01 Estructuras de control.md",
     "JavaScript/02-Estructuras_de_Control/03 Operadores.md",
     "JavaScript/02-Estructuras_de_Control/04 Switch.md",
     "TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
     "TypeScript/03_POO_TS/02 Propiedades.md",
-    "TypeScript/03_POO_TS/06 Abstract.md",
-    "TypeScript/03_POO_TS/05 Private Protected.md",
-    "JavaScript/02-Estructuras_de_Control/02 Paso por Valor - Referencia.md",
-    "JavaScript/03-Patron_Modulo/00 Introduccion a la sección.md",
-    "JavaScript/02-Estructuras_de_Control/01 Estructuras Control de flujo.md",
-    "JavaScript/01-FundamentosJS/00 Índice de la Sección.md",
-    "JavaScript/01-FundamentosJS/03 Arreglos.md",
-    "JavaScript/03-Patron_Modulo/03 Optimizaciones.md",
-    "JavaScript/03-Patron_Modulo/Sin título.md",
-    "JavaScript/03-Patron_Modulo/02 Patrón Módulo.md",
-    "JavaScript/03-Patron_Modulo/01 Problemática.md",
-    "JavaScript/03-Patron_Modulo",
-    "JavaScript/02-Estructuras_de_Control/03 Romper referencia.md",
+    "JavaScript/04-Patron_Modulo",
     "JavaScript/02-Estructuras_de_Control/ANEXO/paso-por-referencia.png",
-    "JavaScript/02-Estructuras_de_Control/ANEXO",
-    "JavaScript/02-Estructuras_de_Control/04 if else.md",
-    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
-    "JavaScript/02-Estructuras_de_Control",
-    "JavaScript/01-FundamentosJS/04 Objetos.md",
-    "TypeScript/00_Entorno/01_Configuracion.md",
-    "TypeScript/00_Entorno/00_Instalacion.md",
-    "TypeScript/00_Entorno/02 Depuración VsCode.md",
     "JavaScript/01-FundamentosJS/ANEXO/metodosArray2.png",
-    "JavaScript/01-FundamentosJS/386313088-JS-Cheat-Sheet.pdf",
-    "JavaScript/01-FundamentosJS/palabras-reservadas.pdf",
     "JavaScript/01-FundamentosJS/ANEXO/metodos-array1.png",
-    "JavaScript/01-FundamentosJS/ANEXO",
-    "JavaScript/01-FundamentosJS",
     "JavaScript/00-Introduccion/ANEXO/debugging.png",
     "JavaScript/00-Introduccion/ANEXO/startdebug-vscode.png",
     "JavaScript/00-Introduccion/ANEXO/breakpoint-vscode.png",
     "JavaScript/00-Introduccion/ANEXO/depurar-navegador.png",
-    "JavaScript/00-Introduccion/ANEXO/breakpoint-navegador.png",
-    "JavaScript/00-Introduccion/ANEXO/soirces-navegador.png",
-    "JavaScript/00-Introduccion/ANEXO/Archivos-cargados-navegador.png",
-    "JavaScript/00-Introduccion/ANEXO",
-    "JavaScript/00-Introduccion",
-    "JavaScript",
     "Sin título.canvas"
   ]
 }
