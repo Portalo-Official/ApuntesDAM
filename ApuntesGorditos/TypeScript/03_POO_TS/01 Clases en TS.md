@@ -1,3 +1,7 @@
+# Clases
+
+Sigue la dinámica de [[01 Clases en JS|clases en javascript]].
+
 ## Clases con typescript
 
 Como practica vamos a crear una clase Personaje, orientado a juegos, este tendrá un id, un nombre, un nivel y vida.

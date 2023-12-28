@@ -7,6 +7,16 @@ btnGiveCard.addEventListener('tipo_evento', funcionCallback)
 ```
 
 También se pueden quitar eventos: `.removeEventListener()`
+
+```javascript title='Ejemplo Boton dar carta'
+btnGiveCard.addEventListener('click', () =>{
+    const carta = pedirCarta(deck);
+    puntosJugador += getValorCarta(carta);
+    puntosHTML[1].innerText= puntosJugador;
+    addCardHTML(carta, cartasJugador);
+    comprobarPuntosJugador()
+});
+```
 ### Tipos de eventos
 
 Fuente: [Tipos de eventos](https://desarrolloweb.com/articulos/1236.php)

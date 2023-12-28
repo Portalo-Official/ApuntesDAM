@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e45a487942d32df8",
+        "id": "a971767d8e2c271f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc0f8f7d09b6742b",
+            "id": "59ed0cc4a320a455",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "91c45bf4916c5fa3",
+            "id": "a5c3f9df7b9c8b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/03-DOM/00 DOM Indice.md",
+                "file": "TypeScript/03_POO_TS/01 Clases en TS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef630589bebff5cf",
+            "id": "b0b4b0891fb3acca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/03-DOM/04 Event click.md",
+                "file": "JavaScript/05-POO Javascript/01 Clases en JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd8715c2c8849d88",
+            "id": "cf466b15e60fb0d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "falsy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +85,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "851998f415a8da5f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
               "state": {}
             }
           }
@@ -127,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/03-DOM/04 Event click.md",
+                "file": "JavaScript/05-POO Javascript/01 Clases en JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/03-DOM/04 Event click.md",
+                "file": "JavaScript/05-POO Javascript/01 Clases en JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/03-DOM/04 Event click.md"
+                "file": "JavaScript/05-POO Javascript/01 Clases en JS.md"
               }
             }
           }
@@ -177,54 +169,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ef630589bebff5cf",
+  "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
+    "JavaScript/05-POO Javascript/ANEXO/sintaxis-limpia-clase.png",
+    "JavaScript/05-POO Javascript/ANEXO/Pasted image 20231228215006.png",
+    "JavaScript/05-POO Javascript/ANEXO/propiedades-undefined.png",
+    "JavaScript/05-POO Javascript/ANEXO",
+    "TypeScript/03_POO_TS/01 Clases en TS.md",
+    "JavaScript/05-POO Javascript/01 Clases en JS.md",
+    "JavaScript/05-POO Javascript/00 Clases Indice.md",
+    "JavaScript/05-POO Javascript/03.md",
+    "JavaScript/05-POO Javascript/02.md",
+    "JavaScript/Clases JS/00 Clases Índice.md",
+    "Sin título.canvas",
+    "Sin título.md",
+    "TypeScript/00_Entorno/01_Configuracion.md",
+    "JavaScript/04-Patron_Modulo/00 Patron Modulo Indice.md",
+    "JavaScript/04-Patron_Modulo/02 Patrón Módulo.md",
+    "JavaScript/04-Patron_Modulo/03 Optimizaciones.md",
+    "JavaScript/05-POO Javascript",
+    "JavaScript/04-Patron_Modulo/ANEXO/fuera-de-scope-iife.png",
+    "JavaScript/04-Patron_Modulo/ANEXO",
+    "JavaScript/04-Patron_Modulo/01 Problemática.md",
     "JavaScript/03-DOM/00 DOM Indice.md",
-    "JavaScript/03-DOM/04 Event click.md",
+    "JavaScript/03-DOM/01 Laboratorio 1-Blackjack.md",
     "JavaScript/03-DOM/03 DOM.md",
-    "TypeScript/Clases TypeScript/Clases Indice.md",
-    "TypeScript/Clases TypeScript/01 DOM.md",
-    "TypeScript/Sin título.md",
-    "TypeScript/Clases TypeScript",
     "JavaScript/03-DOM/02 Lógica del juego.md",
+    "JavaScript/03-DOM/04 Event click.md",
+    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+    "JavaScript/01-FundamentosJS/06 Retorno de funciones.md",
+    "JavaScript/01-FundamentosJS/05 Funciones.md",
+    "JavaScript/01-FundamentosJS/04 Objetos Literales.md",
+    "JavaScript/01-FundamentosJS/03 strings.md",
+    "JavaScript/01-FundamentosJS/03 Arreglos.md",
+    "JavaScript/01-FundamentosJS/02 Palabras reservadas.md",
+    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
+    "TypeScript/Clases TypeScript",
     "JavaScript/03-DOM/ANEXO/dom-cheatsheet-resumen.png",
     "JavaScript/03-DOM/ANEXO/dom-cheatsheet01.png",
     "JavaScript/03-DOM/ANEXO",
-    "JavaScript/Clases JS/03 JSON.md",
-    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
     "JavaScript/01-FundamentosJS/ANEXO/desestructuracion.png",
-    "JavaScript/Clases JS/00 Clases Índice.md",
-    "JavaScript/Clases JS/02 Math.md",
     "JavaScript/Clases JS/ANEXO/Pasted image 20231227180429.png",
     "JavaScript/Clases JS/ANEXO/Pasted image 20231227175748.png",
-    "JavaScript/Clases JS/01 DATE.md",
     "JavaScript/Clases JS/ANEXO",
-    "JavaScript/01-FundamentosJS/03 strings.md",
     "JavaScript/Clases JS",
     "JavaScript/01-FundamentosJS/ANEXO/metodos-strings.png",
-    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
-    "JavaScript/01-FundamentosJS/03 Arreglos.md",
-    "JavaScript/Libreria Terceros/01 UNDERSCORE.JS.md",
-    "JavaScript/03-DOM/01 Laboratorio 1-Blackjack.md",
-    "[Laboratorio 1-Blackjack.md",
-    "JavaScript/Libreria Terceros/ANEXO/comprimido-underscore.png",
     "JavaScript/Libreria Terceros/ANEXO/comprimido-underscore.png",
     "JavaScript/Libreria Terceros/ANEXO",
-    "JavaScript/Libreria Terceros/Libreria terceros indice.md",
     "JavaScript/Libreria Terceros",
-    "JavaScript/04-DOM/ANEXO/comprimido-underscore.png",
-    "JavaScript/04-DOM/ANEXO",
-    "CSS/Bootstrap/00 Indice.md",
-    "JavaScript/01-FundamentosJS/00 Fundamentos.md",
-    "CSS/Bootstrap/Layout/03 Breakpoints.md",
-    "CSS/Bootstrap/Layout/00 Layout Indice.md",
-    "CSS/Bootstrap/Layout/02 Columns.md",
-    "CSS/Bootstrap/Layout/01 Containers.md",
-    "CSS/Bootstrap/Components/00 Indice Components.md",
-    "CSS/Bootstrap/Layout",
-    "CSS/Bootstrap/Components",
-    "CSS/Bootstrap/Utilities",
-    "JavaScript/02-Estructuras_de_Control/ANEXO/paso-por-referencia.png",
-    "Sin título.canvas"
+    "JavaScript/04-DOM/ANEXO"
   ]
 }

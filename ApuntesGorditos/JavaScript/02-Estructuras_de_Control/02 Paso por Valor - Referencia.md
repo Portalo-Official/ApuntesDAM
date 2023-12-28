@@ -11,7 +11,7 @@ console.log({a, b}); // { a: 30, b: 10 }
 
 ## Paso por referencia
 
-Cuando igualamos alguna variable con un [[04 Objetos|Objeto]], captura en memoria el valor tal cual. Coge la referencia de memoria, si cambia el valor de la propiedad del objeto también lo tendrá.
+Cuando igualamos alguna variable con un [[04 Objetos Literales|Objeto]], captura en memoria el valor tal cual. Coge la referencia de memoria, si cambia el valor de la propiedad del objeto también lo tendrá.
 
 ```javascript title='Paso por referencia'
 let juan = {nombre: 'juan', edad: 24}

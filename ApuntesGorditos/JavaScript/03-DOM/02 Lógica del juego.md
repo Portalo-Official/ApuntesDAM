@@ -80,4 +80,9 @@ const getValorCarta= (card) => {
 }
 ```
 
+## Que más sigue
+
+Montar la lógica quedará hasta aquí. El proyecto esta acabado y subido en      [Github JsPracticando](https://github.com/santiagoieshna/jsPracticando), en la ruta _JavascriptPracticando/04_DOM-BlackJack_.
+
+
 

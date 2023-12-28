@@ -1,4 +1,4 @@
 [
-  "make-md",
-  "code-styler"
+  "code-styler",
+  "persistent-graph"
 ]

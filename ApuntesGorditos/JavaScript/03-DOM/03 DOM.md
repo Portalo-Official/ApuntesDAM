@@ -63,8 +63,10 @@ let botones= document.getElementsByTagName('button'); // Todos
 let jSelector= document.querySelector('#jugador-cartas');
 // class
 let cartaSelector= document.querySelector('.carta');// la primera
-let cartasSelector= document.querySelectorAll('.carta');
 // Retorna todas las cartas
+let cartasSelector= document.querySelectorAll('.carta');
+// Retorna todas las etiquetas <small>
+let puntosHTML = document.querySelectorAll('small'); //tags <small>
 ```
 
 #### Añadir y Borrar elementos
