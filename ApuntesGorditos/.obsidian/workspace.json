@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/03-DOM/03 DOM.md",
+                "file": "JavaScript/03-DOM/04 Event click.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/03-DOM/03 DOM.md",
+                "file": "JavaScript/03-DOM/04 Event click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/03-DOM/03 DOM.md",
+                "file": "JavaScript/03-DOM/04 Event click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/03-DOM/03 DOM.md"
+                "file": "JavaScript/03-DOM/04 Event click.md"
               }
             }
           }
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +180,7 @@
   "active": "ef630589bebff5cf",
   "lastOpenFiles": [
     "JavaScript/03-DOM/00 DOM Indice.md",
+    "JavaScript/03-DOM/04 Event click.md",
     "JavaScript/03-DOM/03 DOM.md",
     "TypeScript/Clases TypeScript/Clases Indice.md",
     "TypeScript/Clases TypeScript/01 DOM.md",
@@ -222,7 +222,6 @@
     "CSS/Bootstrap/Layout/01 Containers.md",
     "CSS/Bootstrap/Components/00 Indice Components.md",
     "CSS/Bootstrap/Layout",
-    "CSS/Bootstrap/Components/01 Buttons.md",
     "CSS/Bootstrap/Components",
     "CSS/Bootstrap/Utilities",
     "JavaScript/02-Estructuras_de_Control/ANEXO/paso-por-referencia.png",

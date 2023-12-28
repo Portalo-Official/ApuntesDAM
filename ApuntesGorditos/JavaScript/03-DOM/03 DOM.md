@@ -76,18 +76,41 @@ let cartasSelector= document.querySelectorAll('.carta');
 |document.appendChild(_element_)|Añade un elemento HTML |
 |document.replaceChild(_new, old_)|Reemplaza un elemento HTML |
 |document.write(_text_)|Write into the HTML output stream|
+##### Ejemplo crear y añadir botón
+
+```javascript title='Add Button'
+// Obtener div de los botones
+let divBotones = document.getElementById('botonera');
+// Crea un boton en memoria
+let botonNuevo= document.createElement('button');
+// Añadir al div
+divBotones.append(botonNuevo);
+// Poner texto
+botonNuevo.innerText= 'Borrar Partida'
+// Añadirle clases
+botonNuevo.classList.add('btn'); // Class de Bootstrap
+botonNuevo.classList.add('btn-success');// Class de Bootstrap
+```
 #### Modificar un elemento
 
 | Property | Description |
 | ---- | ---- |
-| _element_.innerHTML =  _new html  | Cambia el HTML de un elemento |
+| _element_.innerHTML =  _new html | Cambia el HTML de un elemento |
 | _element_.innerText = 'new text' | Cambia el texto de un elemento |
 | _element_._attribute = new value_ | Cambia el valor del atributo |
 | _element_.style._property = new style_ | Cambia el estilo del elemnto |
+| element.classList | Retorna lista de las clases |
 
 | Method | Description |
 | ---- | ---- |
 | _element_.setAttribute_(attribute, value)_ | Change the attribute value of an HTML element |
+##### Propiedad classList
+
+###### Metodos de classList
+
+- .add('clase') ---> Añade una clase al elemento.
+- .contains('clase') ---> true si esta presente, false si no.
+- .remove('clase') ---> elimina la clase.
 
 ## Cheatsheet Métodos
 
