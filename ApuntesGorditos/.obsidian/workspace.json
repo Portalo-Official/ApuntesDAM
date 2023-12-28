@@ -35,26 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Libreria Terceros/01 UNDERSCORE.JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f32c0d0acaa45cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "file": "JavaScript/03-DOM/03 DOM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "file": "JavaScript/03-DOM/03 DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md",
+                "file": "JavaScript/03-DOM/03 DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/01-FundamentosJS/03 Arreglos.md"
+                "file": "JavaScript/03-DOM/03 DOM.md"
               }
             }
           }
@@ -177,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +178,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3f32c0d0acaa45cd",
+  "active": "ef630589bebff5cf",
   "lastOpenFiles": [
-    "JavaScript/03-DOM/02 Lógica del juego.md",
-    "JavaScript/Libreria Terceros/01 UNDERSCORE.JS.md",
     "JavaScript/03-DOM/00 DOM Indice.md",
+    "JavaScript/03-DOM/03 DOM.md",
+    "TypeScript/Clases TypeScript/Clases Indice.md",
+    "TypeScript/Clases TypeScript/01 DOM.md",
+    "TypeScript/Sin título.md",
+    "TypeScript/Clases TypeScript",
+    "JavaScript/03-DOM/02 Lógica del juego.md",
+    "JavaScript/03-DOM/ANEXO/dom-cheatsheet-resumen.png",
+    "JavaScript/03-DOM/ANEXO/dom-cheatsheet01.png",
+    "JavaScript/03-DOM/ANEXO",
+    "JavaScript/Clases JS/03 JSON.md",
+    "JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+    "JavaScript/01-FundamentosJS/ANEXO/desestructuracion.png",
+    "JavaScript/Clases JS/00 Clases Índice.md",
+    "JavaScript/Clases JS/02 Math.md",
+    "JavaScript/Clases JS/ANEXO/Pasted image 20231227180429.png",
+    "JavaScript/Clases JS/ANEXO/Pasted image 20231227175748.png",
+    "JavaScript/Clases JS/01 DATE.md",
+    "JavaScript/Clases JS/ANEXO",
+    "JavaScript/01-FundamentosJS/03 strings.md",
+    "JavaScript/Clases JS",
+    "JavaScript/01-FundamentosJS/ANEXO/metodos-strings.png",
+    "JavaScript/01-FundamentosJS/01 Tipos primitivos.md",
+    "JavaScript/01-FundamentosJS/03 Arreglos.md",
+    "JavaScript/Libreria Terceros/01 UNDERSCORE.JS.md",
     "JavaScript/03-DOM/01 Laboratorio 1-Blackjack.md",
     "[Laboratorio 1-Blackjack.md",
     "JavaScript/Libreria Terceros/ANEXO/comprimido-underscore.png",
@@ -213,30 +224,8 @@
     "CSS/Bootstrap/Layout",
     "CSS/Bootstrap/Components/01 Buttons.md",
     "CSS/Bootstrap/Components",
-    "CSS/Bootstrap/Utilities/00 Utilities.md",
-    "CSS/Bootstrap/Utilities/02 Backgroung.md",
-    "CSS/Bootstrap/Utilities/01 Spacing.md",
     "CSS/Bootstrap/Utilities",
-    "CSS/Bootstrap/01 Comenzar.md",
-    "CSS/Bootstrap",
-    "CSS",
-    "JavaScript/02-Estructuras_de_Control/05 For - in of.md",
-    "JavaScript/03-DOM",
-    "JavaScript/02-Estructuras_de_Control/00 Control Flujo Indice.md",
-    "JavaScript/02-Estructuras_de_Control/04 While - Do While.md",
-    "JavaScript/02-Estructuras_de_Control/01 Estructuras de control.md",
-    "JavaScript/02-Estructuras_de_Control/03 Operadores.md",
-    "JavaScript/02-Estructuras_de_Control/04 Switch.md",
-    "TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
-    "TypeScript/03_POO_TS/02 Propiedades.md",
-    "JavaScript/04-Patron_Modulo",
     "JavaScript/02-Estructuras_de_Control/ANEXO/paso-por-referencia.png",
-    "JavaScript/01-FundamentosJS/ANEXO/metodosArray2.png",
-    "JavaScript/01-FundamentosJS/ANEXO/metodos-array1.png",
-    "JavaScript/00-Introduccion/ANEXO/debugging.png",
-    "JavaScript/00-Introduccion/ANEXO/startdebug-vscode.png",
-    "JavaScript/00-Introduccion/ANEXO/breakpoint-vscode.png",
-    "JavaScript/00-Introduccion/ANEXO/depurar-navegador.png",
     "Sin título.canvas"
   ]
 }

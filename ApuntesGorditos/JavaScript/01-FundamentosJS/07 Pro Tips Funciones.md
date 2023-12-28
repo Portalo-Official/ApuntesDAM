@@ -64,6 +64,9 @@ console.log(edad); // 23
 console.log(nombre); // Ana
 ```
 
+Cheatsheet: [profulsadangi](https://twitter.com/profulsadangi/status/1338420387978256384/photo/1) 
+
+![[desestructuracion.png]]
 #### Desestructuración de argumentos
 
 Pasamos un objeto a una funcion que en sus parámetros están las propiedades del objeto.

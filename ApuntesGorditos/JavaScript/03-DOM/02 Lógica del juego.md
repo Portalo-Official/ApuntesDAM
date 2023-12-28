@@ -56,4 +56,28 @@ const shuffleDeck = (deck) => {
 ```
 ## Pedir carta 
 
+```javascript title='Pedir Carta'
+/**
+ * Quita un elemento del array por parametro y lo retorna
+ * @param {*} deck string[]
+ * @returns Un elemento del array
+ */
+const pedirCarta = (deck) => {
+    if(deck.length === 0){
+        throw 'No hay cartas en el deck';
+    }
+    return deck.pop();
+}
+```
+
+## Valor de carta
+
+```javascript title='Valor de carta'
+const valoresCarta = { 2:2, 3:3, 4:4, 5:5, 6:6, 7:7, 8:8, 9:9, J:10, Q:10, K:10, A:11 }
+const getValorCarta= (card) => {
+    let numero = card.split('')[0];
+    return valoresCarta[numero];
+}
+```
+
 

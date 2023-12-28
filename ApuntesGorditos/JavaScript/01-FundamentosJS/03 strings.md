@@ -1,0 +1,3 @@
+## Métodos
+
+![[metodos-strings.png]]
