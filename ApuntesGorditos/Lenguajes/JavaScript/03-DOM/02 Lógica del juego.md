@@ -84,5 +84,9 @@ const getValorCarta= (card) => {
 
 Montar la lógica quedará hasta aquí. El proyecto esta acabado y subido en      [Github JsPracticando](https://github.com/santiagoieshna/jsPracticando), en la ruta _JavascriptPracticando/04_DOM-BlackJack_.
 
+## Refactorización
+
+Una cosa importante y que no se hace en este punto, seria refactorizar para tener mantenible el código, respetando principios SOLID e incluso crear alguna [[01 Clases en JS|Clase]] como _jugador_ (ya que crupier y jugador tienen comportamientos similares).
+
 
 
