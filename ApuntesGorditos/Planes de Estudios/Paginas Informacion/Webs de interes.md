@@ -1,0 +1,10 @@
+
+- [Apuntes Typescript](https://apuntes.de/typescript/#gsc.tab=0)
+- [Apuntes Javascript](https://lenguajejs.com/javascript/dom/seleccionar-elementos-dom/)
+- [Git Libro](https://git-scm.com/book/es/v2)
+- [CSS 2023](https://developer.chrome.com/blog/css-wrapped-2023?hl=es-419)
+- [Atomic Design](https://www.uifrommars.com/atomic-design-ventajas/)
+- [Design Systems](https://profile.es/blog/que-es-design-system-ejemplo/)
+- [Storybook](https://www.innocv.com/web/noticias/Como-crear-componentes-aislados-y-documentados-con-storybook#:~:text=Storybook%20es%20una%20herramienta%20de,desarrollo%20más%20rápido%20y%20eficiente.)
+- [tRPC](https://faztweb.com/contenido/que-es-trpc)
+- [webhooks](https://docs.github.com/es/webhooks)

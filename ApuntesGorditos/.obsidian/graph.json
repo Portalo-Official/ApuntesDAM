@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 7936965
       }
+    },
+    {
+      "query": "path:React  ",
+      "color": {
+        "a": 1,
+        "rgb": 3593119
+      }
+    },
+    {
+      "query": "path:Angular  ",
+      "color": {
+        "a": 1,
+        "rgb": 13443917
+      }
     }
   ],
   "collapse-display": true,
