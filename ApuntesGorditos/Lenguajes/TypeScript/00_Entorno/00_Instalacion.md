@@ -1,7 +1,7 @@
 ## Pasos
 
 ### Paso 1: Instalar node.js
-- [node](https://nodejs.org/en)
+- [[Node.js Instalacion]]
 
 ### Paso 2: comprobar todo okey
 

@@ -1,6 +1,9 @@
 
-
 ## Vite
+
+[Vite.dev](https://vitejs.dev)
+
+[Vite en español GUIA](https://es.vitejs.dev/guide/why.html)
 
 #### Ventajas
 
@@ -36,4 +39,10 @@ En package.json: nos centraremos en el apartado de `{json}"scripts":{}`
 **Scripts de Construcción y Desarrollo:**
 
 - Vite utiliza los scripts `"build"` y `"dev"` en el `package.json` para definir cómo se construye y se ejecuta la aplicación. Estos scripts son invocados comúnmente con comandos como `npm run dev` o `npm run build`.
+
+## Estructura del directorio
+
+El proyecto que hemos creado, no ha sido a partir de vite en realidad, si no a partir de Node.
+
+
 
