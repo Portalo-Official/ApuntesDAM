@@ -47,13 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
+                "file": "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md"
+              }
             }
           }
         ],
@@ -176,10 +181,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "59ed0cc4a320a455",
+  "active": "0f8798e476359576",
   "lastOpenFiles": [
-    "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
     "Backend/Node.js/01 Bases de Node/00 Node Bases Índice.md",
+    "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
     "Backend/Node.js/00 Fundamentos Node/06 Nodemon.md",
     "Backend/Node.js/00 Fundamentos Node/01 Non Blocking.md",
     "Backend/Node.js/00 Fundamentos Node/ANEXO/nodemon-app.png",

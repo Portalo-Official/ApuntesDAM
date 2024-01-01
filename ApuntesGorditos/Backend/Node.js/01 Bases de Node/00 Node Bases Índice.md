@@ -3,7 +3,6 @@ Una vez visto los [[00 Node Fundamentos Indice|fundamentos]], se verá como inic
 
 # Índice
 
-- [[Iniciar Proyecto]]
 - [[Requerir Paquetes]]
 - [[Importar archivos de nuestro proyecto]]
 - [[Recibir información línea comando]]
