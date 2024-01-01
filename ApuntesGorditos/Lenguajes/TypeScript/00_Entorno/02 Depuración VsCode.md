@@ -1,8 +1,5 @@
 ## Pasos
 
-Para correr una archivo JavaScript:
-`{bash}node dist/typeof_VerTipos.js                                       `
-
 Si queremos depurar código typescript en VsCode hay que seguir una serie de pasos para ello.
 
 ### Habilitar mapeo de js

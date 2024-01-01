@@ -1,6 +1,6 @@
 ## Instalación Javascript
 
-Para ejecutar javascript desde la terminal solo hará falta instalar [[Node.js Instalacion]].
+Para ejecutar javascript desde la terminal solo hará falta instalar [[Node.js Instalación]].
 
 para ejecutar un archivo javascript solo hace falta usar el comando:
 
@@ -8,6 +8,7 @@ para ejecutar un archivo javascript solo hace falta usar el comando:
 
 ![[comando-node.png]]
 
+Ver apuntes de [[02 Ejecutar JS en node|Node.js]] para saber más.
 ### Ver consola de navegador
 
 En cualquier navegador, pulsas tecla derecha y eliges opción *inspeccionar elemento*.

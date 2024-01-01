@@ -15,8 +15,8 @@
 
 ### Instalación
 
-1. Asegurarnos tener instalado [[Node.js Instalacion|Node.js]]
-2. hacer uso de el package manager [[npm|npm]].
+1. Asegurarnos tener instalado [[Node.js Instalación|Node.js]]
+2. hacer uso de el package manager [[07 npm|07 npm]].
 
 Tipar comando `{bash}npm create vite`, pedirá un nombre del proyecto, en nuestro ejemplo se llama _vite-comienzo_ y paso posterior elegir _framework_ y se elegirá vanilla.
 

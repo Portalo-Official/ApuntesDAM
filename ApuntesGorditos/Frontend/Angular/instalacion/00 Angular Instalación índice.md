@@ -1,6 +1,6 @@
 # Instalación
 
-- [[Node.js Instalacion|Node.js]]
+- [[Node.js Instalación|Node.js]]
 
 ## Extensión de Vscode
 

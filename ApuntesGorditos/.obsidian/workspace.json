@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "3c5f8cf158e37152",
+            "id": "e88ac90ce98d7011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Node.js/Fundamentos Node/Non Blocking.md",
+                "file": "Backend/Node.js/00 Fundamentos Node/06 Nodemon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "347f31eb311346e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Node.js/Express/00 Express Índice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8798e476359576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Node.js/Fundamentos Node/Non Blocking.md",
+                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Node.js/Fundamentos Node/Non Blocking.md",
+                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Node.js/Fundamentos Node/Non Blocking.md"
+                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md"
               }
             }
           }
@@ -157,54 +181,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3c5f8cf158e37152",
+  "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
-    "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
-    "Lenguajes/JavaScript/03-DOM/02 Lógica del juego.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/01 Bundlers y Herramientas.md",
-    "Lenguajes/JavaScript/04-Patron_Modulo/01 Problemática.md",
-    "Lenguajes/JavaScript/04-Patron_Modulo/02 Patrón Módulo.md",
-    "Backend/Node.js/Fundamentos Node/Node Fundamentos Indice.md",
-    "mod.md",
-    "Backend/Node.js/Fundamentos Node/Non Blocking.md",
-    "Backend/Node.js/Fundamentos Node/npm.md",
-    "Backend/Node.js/Instalacion/Node.js Instalacion.md",
-    "Backend/Node.js/Fundamentos Node",
-    "Lenguajes/JavaScript/06-Vite y Modulos/00 Vite y Módulos Índice.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
-    "Lenguajes/TypeScript/00_Entorno/00_Instalacion.md",
-    "Lenguajes/JavaScript/00-Introduccion/00-Introduccion JS.md",
-    "Frontend/Angular/instalacion/00 Angular Instalación índice.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/03 vite.config.js.md",
+    "Backend/Node.js/01 Bases de Node/00 Node Bases Índice.md",
+    "Backend/Node.js/00 Fundamentos Node/06 Nodemon.md",
+    "Backend/Node.js/00 Fundamentos Node/ANEXO/nodemon-app.png",
+    "Backend/Node.js/00 Fundamentos Node/00 Node Fundamentos Indice.md",
+    "Backend/Node.js/Express/00 Express Índice.md",
+    "Backend/Node.js/Express",
+    "Backend/Node.js/00 Fundamentos Node/07 npm.md",
+    "Backend/Node.js/00 Fundamentos Node/04 Ciclo de vida de un proceso.md",
+    "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
+    "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
+    "Backend/Node.js/01 Bases de Node/package.json.md",
+    "Backend/Node.js/01 Bases de Node/Recibir información línea comando.md",
+    "Backend/Node.js/01 Bases de Node/Importar archivos de nuestro proyecto.md",
+    "Backend/Node.js/01 Bases de Node",
+    "Lenguajes/JavaScript/Asincronia/Asincronía Índice.md",
+    "Lenguajes/JavaScript/Asincronia/Funciones Generadoras Asíncronas.md",
+    "Lenguajes/JavaScript/Asincronia/Funciones Generadoras.md",
+    "Lenguajes/JavaScript/Asincronia/For await if await.md",
+    "Lenguajes/JavaScript/Asincronia/Optimizar Promesas no secuenciales.md",
+    "Lenguajes/JavaScript/Asincronia/Async-Await.md",
+    "Lenguajes/JavaScript/Asincronia/Async.md",
+    "Lenguajes/JavaScript/Asincronia/Promise Race.md",
+    "Lenguajes/JavaScript/Asincronia/Promise All.md",
+    "Lenguajes/JavaScript/Asincronia/Sin título",
+    "Lenguajes/JavaScript/Asincronia/Promise Hell.md",
+    "Lenguajes/JavaScript/Asincronia/Callback Hell.md",
+    "Lenguajes/JavaScript/Asincronia/Promesas.md",
+    "Lenguajes/JavaScript/Asincronia/Callback.md",
+    "Lenguajes/JavaScript/Asincronia",
+    "Backend/Node.js/00 Fundamentos Node/ANEXO/pila-de-procesos.png",
+    "Backend/Node.js/00 Fundamentos Node/03 Ciclo de eventos de Node.md",
+    "Backend/Node.js/00 Fundamentos Node/ANEXO/ciclo-eventos.png",
+    "Backend/Node.js/00 Fundamentos Node/ANEXO/event-llop-stack.png",
+    "Backend/Node.js/00 Fundamentos Node/ANEXO/ciclo-de-eventos.png",
+    "Backend/Node.js/00 Fundamentos Node/ANEXO",
+    "Backend/Node.js/00 Fundamentos Node",
     "Lenguajes/JavaScript/06-Vite y Modulos/ANEXO/packagejson-scripts.png",
     "Lenguajes/JavaScript/06-Vite y Modulos/ANEXO/proyecto-vite.png",
     "Lenguajes/JavaScript/06-Vite y Modulos/ANEXO/framework-vite.png",
-    "Backend/SpringBoot/Instalacion/Spring Boot instalación.md",
     "Backend/Node.js/Instalacion",
     "Backend/SpringBoot/Instalacion",
     "Backend/SpringBoot",
     "Backend/Node.js",
-    "Backend",
-    "BBDD",
-    "Lenguajes",
-    "Frontend",
-    "Frontend/React/Next.js/Next.js Puntos de estudio.md",
-    "Frontend/Angular/Bundler.md",
-    "Frontend/Angular/instalacion",
-    "Lenguajes/JavaScript/05-POO Javascript/02 Estaticos.md",
     "Lenguajes/JavaScript/06-Vite y Modulos/ANEXO/bundler.png",
-    "Planes de Estudios/Paginas Informacion/Webs de interes.md",
-    "Planes de Estudios/Estudios 2024.md",
-    "Planes de Estudios/Paginas Informacion/Paginas Empleo-Sueldos.md",
-    "Planes de Estudios/Paginas Informacion/Paginas Tendencias.md",
-    "Lenguajes/JavaScript/Libreria Terceros/03 Just.md",
-    "Lenguajes/JavaScript/Libreria Terceros/02 Loadash.md",
     "Lenguajes/JavaScript/05-POO Javascript/ANEXO/sintaxis-limpia-clase.png",
-    "JavaScript/05-POO Javascript/ANEXO/Pasted image 20231228215006.png",
-    "Lenguajes/JavaScript/05-POO Javascript/ANEXO/propiedades-undefined.png",
-    "Sin título.canvas",
-    "Lenguajes/JavaScript/04-Patron_Modulo/ANEXO/fuera-de-scope-iife.png",
-    "Lenguajes/JavaScript/03-DOM/ANEXO/dom-cheatsheet-resumen.png",
-    "Lenguajes/JavaScript/03-DOM/ANEXO/dom-cheatsheet01.png"
+    "Sin título.canvas"
   ]
 }

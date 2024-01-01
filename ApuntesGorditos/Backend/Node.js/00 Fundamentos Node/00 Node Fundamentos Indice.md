@@ -1,14 +1,16 @@
 
 # Índice
 
-- [[Node Fundamentos Indice#Introduccion|Introducción a Node]]
-- [[Non Blocking|Non-bloking I/O]]
-- Ciclo de eventos
-- Nodemon
+- [[00 Node Fundamentos Indice#Introduccion|Introducción a Node]]
+- [[01 Non Blocking|Non-bloking I/O]]
+- [[02 Ejecutar JS en node]]
+- [[03 Ciclo de eventos de Node|Ciclo de eventos]]
+- [[04 Ciclo de vida de un proceso|Ciclo de vida de un proceso]]
+- [[06 Nodemon|Nodemon]]
 
 ## Introducción
 
-Una vez [[Node.js Instalacion|instalado]] todo, hay que comprender que es Node.js en sí mismo.
+Una vez [[Node.js Instalación|instalado]] todo, hay que comprender que es Node.js en sí mismo.
 
 ### Que es
 
@@ -36,4 +38,4 @@ Esto lo la hace tan eficiente que por eso node es sumamente rápido.
 
 - Entradas y salidas que no realizan bloqueo del servidor.
 - Es sumamente rápido y fácil de configurar.
-- Más de 470 mil paquetes disponibles, tiene el ecosistema de paquetes ([[npm|npm]]) con mas librerias del mundo.
+- Más de 470 mil paquetes disponibles, tiene el ecosistema de paquetes ([[07 npm|07 npm]]) con mas librerias del mundo.
