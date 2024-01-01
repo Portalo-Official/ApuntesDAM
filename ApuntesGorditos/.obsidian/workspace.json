@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,10 +176,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf466b15e60fb0d3",
+  "active": "59ed0cc4a320a455",
   "lastOpenFiles": [
+    "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
     "Backend/Node.js/01 Bases de Node/00 Node Bases Índice.md",
     "Backend/Node.js/00 Fundamentos Node/06 Nodemon.md",
+    "Backend/Node.js/00 Fundamentos Node/01 Non Blocking.md",
     "Backend/Node.js/00 Fundamentos Node/ANEXO/nodemon-app.png",
     "Backend/Node.js/00 Fundamentos Node/00 Node Fundamentos Indice.md",
     "Backend/Node.js/Express/00 Express Índice.md",
@@ -192,7 +189,6 @@
     "Backend/Node.js/00 Fundamentos Node/07 npm.md",
     "Backend/Node.js/00 Fundamentos Node/04 Ciclo de vida de un proceso.md",
     "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
-    "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
     "Backend/Node.js/01 Bases de Node/package.json.md",
     "Backend/Node.js/01 Bases de Node/Recibir información línea comando.md",
     "Backend/Node.js/01 Bases de Node/Importar archivos de nuestro proyecto.md",

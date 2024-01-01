@@ -1,5 +1,10 @@
-# Blocking
+
 Esto es pura teoría, si quieres ponerte a practicar avanza.
+# Blocking vs non-blocking
+Fuente: [lemoncode](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono)
+
+
+
 ### No Bloqueo (No Bloqueante):
 
 - _Definición_:
