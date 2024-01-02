@@ -38,11 +38,43 @@ En package.json: nos centraremos en el apartado de `{json}"scripts":{}`
 
 **Scripts de Construcción y Desarrollo:**
 
-- Vite utiliza los scripts `"build"` y `"dev"` en el `package.json` para definir cómo se construye y se ejecuta la aplicación. Estos scripts son invocados comúnmente con comandos como `npm run dev` o `npm run build`.
+- Vite utiliza los scripts `{bash}"build"` y `{bash}"{bash}dev"` en el _package.json_ para definir cómo se construye y se ejecuta la aplicación. Estos scripts son invocados comúnmente con comandos como `{bash}npm run dev` o `{bash}npm run build`.
 
-## Estructura del directorio
+### Instalar dependencias
 
 El proyecto que hemos creado, no ha sido a partir de vite en realidad, si no a partir de Node.
 
+Una vez visto todo esto, tenemos que instalar las dependencias.
+
+con `{bash}npm i` se instalarán las dependencias necesarias del proyecto, esto se ve en el archivo [[package.json]] en `{json}"devDependencies"`.
+
+una vez instalado, npm habrá creado la carpeta _node_modules_, donde se encuentran todas las dependencias.
 
 
+## Correr script
+
+Una vez instaladas las dependencias y creada la carpeta node_modules:
+
+podemos usar el comando _npm run dev_
+
+![[npmp-run-dev-url.png]]
+
+Este comando levanta un servidor con la pagina web actual que tenemos.
+
+# Estructura de directorios
+
+Estructura de directorios al instalar vite:
+
+- Directorio Public: Donde están los archivos que no necesitan procesamiento (estáticos). Aquí podría ir el directorio assets.
+
+- index.html: Archivo principal de html, todo proyecto siempre leerá el index.html por convención.
+
+- main.js: Archivo principal de js, por convención es el que esta enganchado al index.html principal mente, este llama o importa lo necesario de otros archivos javascript.
+
+- counter.js: Script de js que se exporta a main.js para su uso.
+
+- style.css: La hoja de estilos creadas por defecto para el proyecto.
+
+- Logos de JS y Vite
+
+Los demás directorios o archivos son creados en general por node.js con npm al crear un proyecto o demás paquetes
