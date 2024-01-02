@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0037310147eb0c2a","type":"group","x":-150,"y":-260,"width":390,"height":240,"color":"#ffffff","label":"Bloques Angular"},
+		{"id":"16628ba60827b56f","type":"text","text":"Modulos","x":-130,"y":-240,"width":350,"height":60,"color":"#09950b"},
+		{"id":"5cb3e563bb6af8fb","type":"text","text":"Componentes","x":-130,"y":-180,"width":175,"height":60,"color":"5"},
+		{"id":"02fc273665775a05","type":"text","text":"Rutas","x":45,"y":-180,"width":175,"height":60,"color":"3"},
+		{"id":"d4439eae5b290abb","type":"text","text":"Directivas","x":-130,"y":-120,"width":175,"height":60,"color":"2"},
+		{"id":"ac7190721fd82d2f","type":"text","text":"Servicios","x":45,"y":-120,"width":175,"height":60,"color":"#d40272"}
+	],
+	"edges":[]
+}

@@ -18,60 +18,48 @@
             }
           },
           {
-            "id": "347f31eb311346e4",
+            "id": "67047d4f3e5bae64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Node.js/00 Fundamentos Node/07 npm.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "991ba44fdbf61878",
+            "id": "052a19f3aff8d5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Node.js/01 Bases de Node/Yargs.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "370d215e71814070",
+            "id": "06ba8b6a75984762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f8798e476359576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Node.js/00 Fundamentos Node/07 npm.md",
+                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e86c644d4167ad5",
+            "id": "49eea47667a14213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/JavaScript/08 Asincronía/Variables de Entorno.md",
+                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,26 +190,38 @@
   },
   "active": "59ed0cc4a320a455",
   "lastOpenFiles": [
+    "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
+    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
+    "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
+    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/demas-bloques.png",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/bloques-fundamentales.png",
     "Lenguajes/JavaScript/08 Asincronía/Variables de Entorno.md",
-    "Backend/Node.js/01 Bases de Node/Yargs.md",
-    "Backend/Node.js/01 Bases de Node/Recibir información línea comando.md",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/bloques-angular.png",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO",
+    "Frontend/Angular/01 Explicacion Angular/Directiva nglf.md",
+    "Frontend/Angular/01 Explicacion Angular/03 App component.md",
+    "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
+    "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
+    "Frontend/Angular/01 Explicacion Angular",
+    "Frontend/Angular/00 instalacion/Angular actualización.md",
     "Backend/Node.js/00 Fundamentos Node/07 npm.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
-    "Lenguajes/JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
-    "Backend/Node.js/01 Bases de Node/Importar archivos de nuestro proyecto.md",
-    "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
-    "Frontend/Angular/instalacion/Paquete @angular_cli.md",
-    "Backend/Node.js/01 Bases de Node/package.json.md",
     "Backend/Node.js/01 Bases de Node/00 Node Bases Índice.md",
+    "Backend/Node.js/01 Bases de Node/Importar archivos de nuestro proyecto.md",
+    "Backend/Node.js/01 Bases de Node/Recibir información línea comando.md",
+    "Backend/Node.js/01 Bases de Node/Yargs.md",
+    "Lenguajes/JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
+    "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
+    "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
+    "Backend/Node.js/01 Bases de Node/package.json.md",
     "Backend/Node.js/01 Bases de Node/ANEXO/devdependencies.png",
     "Backend/Node.js/01 Bases de Node/ANEXO/npm-install-colors.png",
     "Backend/Node.js/01 Bases de Node/ANEXO/package-recien-creado.png",
     "Backend/Node.js/01 Bases de Node/ANEXO",
     "Backend/Node.js/00 Fundamentos Node/ANEXO/npm-init-package.json.png",
     "Backend/Node.js/00 Fundamentos Node/ANEXO/npm-init.png",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
     "Lenguajes/JavaScript/08 Asincronía/Callback.md",
-    "Frontend/Angular/instalacion/00 Angular Instalación índice.md",
     "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
     "Backend/Node.js/Express/00 Express Índice.md",
     "Lenguajes/JavaScript/06-Vite y Modulos/ANEXO/npmp-run-dev-url.png",
@@ -229,25 +229,12 @@
     "Lenguajes/JavaScript/08 Asincronía/Asincronía Índice.md",
     "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
     "Backend/Node.js/00 Fundamentos Node/06 Nodemon.md",
-    "Backend/Node.js/00 Fundamentos Node/01 Non Blocking.md",
     "Backend/Node.js/00 Fundamentos Node/ANEXO/nodemon-app.png",
-    "Backend/Node.js/00 Fundamentos Node/00 Node Fundamentos Indice.md",
     "Backend/Node.js/Express",
-    "Backend/Node.js/00 Fundamentos Node/04 Ciclo de vida de un proceso.md",
     "Backend/Node.js/01 Bases de Node",
-    "Lenguajes/JavaScript/08 Asincronía/Funciones Generadoras Asíncronas.md",
-    "Lenguajes/JavaScript/08 Asincronía/Funciones Generadoras.md",
-    "Lenguajes/JavaScript/08 Asincronía/For await if await.md",
-    "Lenguajes/JavaScript/08 Asincronía/Optimizar Promesas no secuenciales.md",
     "Lenguajes/JavaScript/Asincronia/Sin título",
     "Lenguajes/JavaScript/08 Asincronía",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO/pila-de-procesos.png",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO/ciclo-eventos.png",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO/event-llop-stack.png",
     "Backend/Node.js/00 Fundamentos Node/ANEXO",
-    "Backend/Node.js/00 Fundamentos Node",
-    "Backend/Node.js/Instalacion",
-    "Backend/SpringBoot/Instalacion",
-    "Sin título.canvas"
+    "Backend/Node.js/00 Fundamentos Node"
   ]
 }

@@ -1,7 +1,8 @@
 # Instalación
 
 - [[Node.js Instalación|Node.js]]
-- paquete @angular/cli por [[07 npm|comando npm]]
+- paquete [[Paquete @angular_cli|@angular/cli]] por [[07 npm|comando npm]]
+- [[00_Instalacion|Typescript]]
 
 ## Instalaciones secundarias
 
