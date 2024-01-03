@@ -36,6 +36,17 @@ Una vez levantado, los cambios se realizaran al guardar los archivos.
 
 ### Generar componentes
 
-`{bash}ng g c [name]`
+`{bash}ng g c [name]` -> Puede ser el nombre solo o con ruta.
+
+_Ejemplo_
+``` title='Consola: Crear componente por ruta'
+$ ng g c heroes/hero
+CREATE src/app/heroes/hero/hero.component.html (19 bytes)
+CREATE src/app/heroes/hero/hero.component.spec.ts (587 bytes)
+CREATE src/app/heroes/hero/hero.component.ts (191 bytes)
+CREATE src/app/heroes/hero/hero.component.css (0 bytes)
+UPDATE src/app/app.module.ts (560 bytes) 
+```
+
 
 

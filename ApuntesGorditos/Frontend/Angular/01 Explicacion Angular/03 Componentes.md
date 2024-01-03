@@ -115,6 +115,60 @@ export class CounterComponent {
 }
 ```
 
+Una vez creado cualquier componente, queremos verlo como es evidente.
 
+Para ello lo llamaremos en app.component, ya que es nuestro punto principal de partida para visualizar la aplicación.
+
+Llamaremos al componente en el HTML.
+
+```html hl:6 title='app.component.html'
+<h1> {{ variable }} </h1>
+<hr>
+<p>
+  Bienvenidos a mi aplicación
+</p>
+<app-counter></app-counter>
+```
+
+Si guardamos y el servidor esta [[Paquete @angular_cli#Levantar servidor|levantado]] arroja error. Pues para que un componente sea visible tiene que esta importando en _app.module.ts_.
+
+### app.module.ts
+
+Este archivo tendrá el registro de los componentes que han sido utilizados en su componente. 
+
+En el importaremos la Clase de CounterComponent y lo declararemos en el Decorador _@NgModule_:
+
+```ts hl:6,11 title='app.module.ts'
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { CounterComponent } from './counter/counter.component';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    CounterComponent
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+
+export class AppModule { }
+```
+
+Una vez hecho esto ya funciona nuestra aplicación (reiniciar server o vsCode si persiste el error, si no, algo hiciste mal prro).
+## Directorios
+
+Una convención es por cada Componente o Modulo tener una carpeta.
+
+Ejemplo de los directorios del ejemplo de [[Paquete @angular_cli#Generar componentes|heroes]]. 
+
+![[directorios-estructura-components.png]]
 
 

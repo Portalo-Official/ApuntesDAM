@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+                "file": "Frontend/Design Systems/Bootstrap/Utilities/00 Utilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,38 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c627a985b01ed997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98362a7e55e96763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md"
+                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md"
               }
             }
           }
@@ -203,11 +179,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f1a449012cc761e3",
+  "active": "6c6af7b46b1abfdc",
   "lastOpenFiles": [
     "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
-    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Frontend/Design Systems/Bootstrap/Utilities/00 Utilities.md",
+    "Frontend/Design Systems/Bootstrap/Utilities/04 Text.md",
+    "Frontend/Design Systems/Bootstrap/Utilities/03 Color.md",
+    "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
+    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/directorios-estructura-components.png",
     "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/ts-en-html.png",
     "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
@@ -237,14 +218,9 @@
     "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
     "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
     "Backend/Node.js/01 Bases de Node/ANEXO/devdependencies.png",
-    "Backend/Node.js/01 Bases de Node/ANEXO/npm-install-colors.png",
     "Backend/Node.js/01 Bases de Node/ANEXO",
     "Lenguajes/JavaScript/08 Asincronía/Callback.md",
     "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
-    "Backend/Node.js/Express/00 Express Índice.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/03 vite.config.js.md",
-    "Lenguajes/JavaScript/08 Asincronía/Asincronía Índice.md",
-    "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
     "Backend/Node.js/Express",
     "Backend/Node.js/01 Bases de Node",
     "Lenguajes/JavaScript/Asincronia/Sin título",

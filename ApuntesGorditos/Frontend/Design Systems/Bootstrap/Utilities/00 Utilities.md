@@ -8,12 +8,14 @@ En utilities es la parte de Bootstrap que se centra en:
 - [[02 Backgroung|Background]]
 - links
 - Borders
-- Colors
+- [[03 Color|Colors]]
 - Opacity
 - Overflow
 - Shadow
 - Sizing
 - Visibility
+- [[04 Text|Text]]
+
 
 Entre otros.. 
 Ver mas: [Utilities](https://getbootstrap.com/docs/5.3/utilities/api/)
