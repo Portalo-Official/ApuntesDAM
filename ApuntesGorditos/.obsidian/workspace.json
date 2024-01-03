@@ -18,31 +18,29 @@
             }
           },
           {
-            "id": "67047d4f3e5bae64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "052a19f3aff8d5b2",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Frontend/Angular/angular-cheat-sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "f1a449012cc761e3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/03 App component.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06ba8b6a75984762",
+            "id": "6c6af7b46b1abfdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,18 +52,31 @@
             }
           },
           {
-            "id": "49eea47667a14213",
+            "id": "c627a985b01ed997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98362a7e55e96763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md"
+              }
             }
           }
         ],
@@ -188,12 +203,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "59ed0cc4a320a455",
+  "active": "6c6af7b46b1abfdc",
   "lastOpenFiles": [
+    "Frontend/Angular/01 Explicacion Angular/03 App component.md",
     "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
-    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
-    "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
+    "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/ts-en-html.png",
+    "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Lenguajes/TypeScript/00_Entorno/01_Configuracion.md",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/carpeta-app.png",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/direcotios-y-archivos-angular.png",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/estructura-src.png",
+    "Backend/Node.js/01 Bases de Node/package.json.md",
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/archivos-proyecto.png",
+    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
+    "Frontend/Angular/00 instalacion/Angular actualización.md",
+    "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/demas-bloques.png",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/bloques-fundamentales.png",
@@ -201,11 +227,7 @@
     "Frontend/Angular/01 Explicacion Angular/ANEXO/bloques-angular.png",
     "Frontend/Angular/01 Explicacion Angular/ANEXO",
     "Frontend/Angular/01 Explicacion Angular/Directiva nglf.md",
-    "Frontend/Angular/01 Explicacion Angular/03 App component.md",
-    "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
-    "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
     "Frontend/Angular/01 Explicacion Angular",
-    "Frontend/Angular/00 instalacion/Angular actualización.md",
     "Backend/Node.js/00 Fundamentos Node/07 npm.md",
     "Backend/Node.js/01 Bases de Node/00 Node Bases Índice.md",
     "Backend/Node.js/01 Bases de Node/Importar archivos de nuestro proyecto.md",
@@ -214,22 +236,15 @@
     "Lenguajes/JavaScript/01-FundamentosJS/07 Pro Tips Funciones.md",
     "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
     "Backend/Node.js/01 Bases de Node/Requerir Paquetes.md",
-    "Backend/Node.js/01 Bases de Node/package.json.md",
     "Backend/Node.js/01 Bases de Node/ANEXO/devdependencies.png",
     "Backend/Node.js/01 Bases de Node/ANEXO/npm-install-colors.png",
-    "Backend/Node.js/01 Bases de Node/ANEXO/package-recien-creado.png",
     "Backend/Node.js/01 Bases de Node/ANEXO",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO/npm-init-package.json.png",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO/npm-init.png",
     "Lenguajes/JavaScript/08 Asincronía/Callback.md",
     "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
     "Backend/Node.js/Express/00 Express Índice.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/ANEXO/npmp-run-dev-url.png",
     "Lenguajes/JavaScript/06-Vite y Modulos/03 vite.config.js.md",
     "Lenguajes/JavaScript/08 Asincronía/Asincronía Índice.md",
     "Backend/Node.js/01 Bases de Node/Iniciar Proyecto.md",
-    "Backend/Node.js/00 Fundamentos Node/06 Nodemon.md",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO/nodemon-app.png",
     "Backend/Node.js/Express",
     "Backend/Node.js/01 Bases de Node",
     "Lenguajes/JavaScript/Asincronia/Sin título",

@@ -436,10 +436,10 @@
       "inline": {
         "syntaxHighlight": true,
         "style": true,
-        "fontWeight": 4,
-        "curvature": 7,
-        "paddingVertical": 5,
-        "paddingHorizontal": 7,
+        "fontWeight": 5,
+        "curvature": 10,
+        "paddingVertical": 3,
+        "paddingHorizontal": 5,
         "marginHorizontal": 0,
         "titleFontWeight": 8
       },
@@ -528,9 +528,9 @@
           }
         },
         "inline": {
-          "backgroundColour": "#0E0E0E8C",
-          "textColour": "#D0D0D0",
-          "activeTextColour": "#BBBBBB",
+          "backgroundColour": "#1616168C",
+          "textColour": "#6F9AB8",
+          "activeTextColour": "#AEAEAE",
           "titleTextColour": "--code-comment"
         },
         "advanced": {
