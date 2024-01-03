@@ -34,5 +34,8 @@ Pero como se explica en [[Angular actualización]] usaremos:
 Una vez levantado, los cambios se realizaran al guardar los archivos.
 
 
+### Generar componentes
+
+`{bash}ng g c [name]`
 
 

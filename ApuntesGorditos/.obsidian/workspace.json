@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/03 App component.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
+                "file": "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md"
+                "file": "Frontend/Angular/01 Explicacion Angular/03 Componentes.md"
               }
             }
           }
@@ -203,14 +203,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c6af7b46b1abfdc",
+  "active": "f1a449012cc761e3",
   "lastOpenFiles": [
-    "Frontend/Angular/01 Explicacion Angular/03 App component.md",
-    "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
     "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
+    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/ts-en-html.png",
     "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
     "Lenguajes/TypeScript/00_Entorno/01_Configuracion.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/carpeta-app.png",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/direcotios-y-archivos-angular.png",

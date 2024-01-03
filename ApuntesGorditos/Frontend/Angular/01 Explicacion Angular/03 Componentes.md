@@ -1,5 +1,5 @@
-
-Un componente va a formar por varias partes que ya vimos en el [[02 Explicación de cada archivo#app|directorio app]], y estos son los archivos app.component.\*.
+# App.component
+Un componente esta formado por varias partes que ya vimos en el [[02 Explicación de cada archivo#app|directorio app]], y estos son los archivos app.component.\*.
 
 1. _app.component.css_ : Archivo para CSS
 
@@ -24,8 +24,13 @@ export class AppComponent {
 }
 ```
 
-_templateUrl_: es la sección para el html.
-_styleUrl_: es la sección para el CSS.
+_@Component_ -> Decorador typescript para angular. tiene varias propiedades:
+_templateUrl_: es la sección para el archivo html.
+_styleUrl_: es la sección para el archivo CSS.
+
+También podemos definir en el propio archivo el html y CSS con las propiedades:
+_template_: Para insertar el HTML
+_style_: Para definir el CSS.
 
 _selector_: 'app-root', -->  Si nos vamos al index.html del proyecto veremos que: 
 
@@ -77,4 +82,39 @@ Ahora vamos a  borrar el html y le ponemos solo un `{html}<h1>` y un `{html}<p>`
 Y si [[Paquete @angular_cli#Levantar servidor|levantamos]] el servidor, veremos los cambios:
 
 ![[ts-en-html.png]]
+
+# Componente
+
+Por convención un componente tendrá el nombre:
+`{python}nombreComponente.component.extension`
+
+_Ejemplo_: usando HTML interno sin CSS.
+
+```ts title='counter.component.ts'
+import { Component } from '@angular/core';
+@Component({
+    selector: 'app-counter',
+    template: `
+            <h1>Hola</h1>
+            <button (click)="incrementar()">1</button>
+            <button (click)="reset()">Reset</button>
+            <button (click)="decrementar()">-1</button>
+            <h2>{{contador}}</h2>`
+})
+export class CounterComponent {
+    public contador : number = 0;
+    incrementar():void{
+        this.contador ++;
+    }
+    decrementar(): void{
+        this.contador --;
+    }
+    reset():void{
+        this.contador = 0;
+    }
+}
+```
+
+
+
 

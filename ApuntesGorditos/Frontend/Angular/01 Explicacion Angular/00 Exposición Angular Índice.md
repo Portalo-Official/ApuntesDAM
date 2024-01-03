@@ -6,5 +6,5 @@ Una vez preparada toda la [[00 Angular Instalación índice|instalación]], vamo
 
 - [[01 Exposición sobre angular]]
 - [[02 Explicación de cada archivo]]
-- [[03 App component]]
+- [[03 Componentes]]
 - [[Directiva nglf|Directiva \*nglf]]
