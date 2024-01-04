@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Design Systems/Bootstrap/Utilities/00 Utilities.md",
+                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,9 +50,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ebff09f9cfb2298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,15 +186,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c6af7b46b1abfdc",
+  "active": "59ed0cc4a320a455",
   "lastOpenFiles": [
-    "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
+    "Frontend/Angular/01 Explicacion Angular/Directiva ngFor.md",
+    "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
+    "Frontend/Angular/01 Explicacion Angular/05 One Way Data Binding.md",
     "Frontend/Design Systems/Bootstrap/Utilities/00 Utilities.md",
+    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
     "Frontend/Design Systems/Bootstrap/Utilities/04 Text.md",
     "Frontend/Design Systems/Bootstrap/Utilities/03 Color.md",
-    "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
-    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/directorios-estructura-components.png",
     "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/ts-en-html.png",
@@ -198,7 +208,6 @@
     "Frontend/Angular/01 Explicacion Angular/ANEXO/estructura-src.png",
     "Backend/Node.js/01 Bases de Node/package.json.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/archivos-proyecto.png",
-    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
     "Frontend/Angular/00 instalacion/Angular actualización.md",
     "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/demas-bloques.png",
@@ -220,7 +229,6 @@
     "Backend/Node.js/01 Bases de Node/ANEXO/devdependencies.png",
     "Backend/Node.js/01 Bases de Node/ANEXO",
     "Lenguajes/JavaScript/08 Asincronía/Callback.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
     "Backend/Node.js/Express",
     "Backend/Node.js/01 Bases de Node",
     "Lenguajes/JavaScript/Asincronia/Sin título",

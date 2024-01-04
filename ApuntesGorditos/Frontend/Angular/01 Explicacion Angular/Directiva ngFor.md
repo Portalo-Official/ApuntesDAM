@@ -1,0 +1,2 @@
+
+# Directiva ngFor

@@ -54,7 +54,7 @@ La línea 11 tiene la etiqueta app-root, ahí es donde se renderiza el component
 
 ## app.component.html
 
-En este archivos podemos escribir código typescript, para ello vamos a modificar un poco el archivo .ts:
+En este archivos podemos insertar variables de Typescript, este mecanismo se llama [[04 Interpolación|interpolación]], para ello vamos a modificar un poco el archivo .ts:
 
 ```ts title='app.component.ts'
 import { Component } from '@angular/core';
@@ -69,7 +69,7 @@ export class AppComponent {
 }
 ```
 
-Ahora vamos a  borrar el html y le ponemos solo un `{html}<h1>` y un `{html}<p>`
+Ahora vamos a borrar el html y le ponemos solo un `{html}<h1>` y un `{html}<p>`
 
 ```html title='app.component.html'
 <h1> {{variable}} </h1>
