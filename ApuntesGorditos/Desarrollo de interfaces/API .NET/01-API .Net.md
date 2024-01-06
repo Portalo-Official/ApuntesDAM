@@ -1,24 +1,36 @@
 
-
+# API en ASP .NET C\#
 Creamos un proyecto ASP .NET Framework API Web
 
+![[crear-proyecto-asp.png]]
+
+![[api-web-proyecto.png]]
 ### Borrar contenidos
 
 
-Una vez creado, borramos los controles, carpeta view, y en el directorio 
+Una vez creado, borramos:
 
+- Todos los controladores (la carpeta la queremos)
+- Directorios:
+	- view
+	- Scripts
+	- Áreas
+	- Content
 
+Contenido resultante:
+![[contenido-resultante.png]]
 ##### Directorio App_start 
+Borramos todo menos *WebApiConfig.cs*.
 
-Quedamos solo *WebApiConfig.cs*.
 
-![[WebApiConfig.cs.png|500]]
+
+
 
 ##### Archivo global.axax
 
 Borramos las líneas de los archivo que se borraron en App_start
 
-
+![[global-axax.png|500]]
 
 ## Controllers
 
@@ -33,35 +45,39 @@ Una vez ahí elegir la opción *Web Api*  en blanco.
 ![[crear-controller-webapi.png]]
 
 Empezamos creando el controlador para temas.
-Sus funciones irán decoradas con los verbos de una 
+Sus funciones irán decoradas con los verbos de HTTP
 
 ````c#  title=temasController
-[HttpGet]
-[Route("tema-controller")]
-public List<string> getTemas()
+[RoutePrefix("api/tema")]
+public class TemaController : ApiController
 {
-    return new List<string> { "Terror", "Romance", "Aventura"};
-}
+    [HttpGet]
+    [Route("tema-controller")]
+    public List<string> getTemas()
+    {
+        return new List<string> { "Terror", "Romance", "Aventura" };
+    }
 
-[HttpPut]
-[Route("tema-controller")]
-public string putTemas()
-{
-    return "Insertando Tema con su EndPoint";
-}
+    [HttpPut]
+    [Route("tema-controller")]
+    public string putTemas()
+    {
+        return "Insertando Tema con su EndPoint";
+    }
 
-[HttpPost]
-[Route("tema-controller")]
-public string postTemas()
-{
-    return "Actualizar tema";
-}
+    [HttpPost]
+    [Route("tema-controller")]
+    public string postTemas()
+    {
+        return "Actualizar tema";
+    }
 
-[HttpDelete]
-[Route("tema-controller")]
-public string deleteTema()
-{
-    return "Borrar tema";
+    [HttpDelete]
+    [Route("tema-controller")]
+    public string deleteTema()
+    {
+        return "Borrar tema";
+    }
 }
 ````
 

@@ -3,5 +3,6 @@
   "cssTheme": "Blue Topaz",
   "baseFontSize": 18,
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
