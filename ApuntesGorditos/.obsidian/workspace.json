@@ -169,9 +169,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c6af7b46b1abfdc",
+  "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
-    "Desarrollo de interfaces/API .NET/ANEXO/Pasted image 20240107031947.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/carpeta-sql.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/archivo.env.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/nuget-dotenv.png",
     "Desarrollo de interfaces/API .NET/01-API .Net.md",
     "Desarrollo de interfaces/API .NET/02 BBDD.md",
     "Desarrollo de interfaces/API .NET/00-API .md",
@@ -196,10 +198,8 @@
     "Frontend/Design Systems/Bootstrap/Utilities/03 Color.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/directorios-estructura-components.png",
     "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
-    "Frontend/Angular/01 Explicacion Angular/ANEXO/ts-en-html.png",
     "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
     "Lenguajes/TypeScript/00_Entorno/01_Configuracion.md",
-    "Frontend/Angular/01 Explicacion Angular/ANEXO/carpeta-app.png",
     "Backend/Node.js/01 Bases de Node/package.json.md",
     "Frontend/Angular/00 instalacion/Angular actualización.md",
     "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
