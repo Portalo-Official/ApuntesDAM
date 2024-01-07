@@ -1,5 +1,9 @@
 
 # API en ASP .NET C\#
+
+Todo el proyecto esta en [GitHub](https://github.com/santiagoieshna/api-rest-libreria-.net)
+## Crear Proyecto
+
 Creamos un proyecto ASP .NET Framework API Web
 
 ![[crear-proyecto-asp.png]]
@@ -22,10 +26,6 @@ Contenido resultante:
 ##### Directorio App_start 
 Borramos todo menos *WebApiConfig.cs*.
 
-
-
-
-
 ##### Archivo global.axax
 
 Borramos las líneas de los archivo que se borraron en App_start
@@ -47,6 +47,7 @@ Una vez ahí elegir la opción *Web Api*  en blanco.
 Empezamos creando el controlador para temas.
 Sus funciones irán decoradas con los verbos de HTTP
 
+_Nota_: Ver códigos en modo escritura es mas legible que en modo lectura.
 ````c#  title=temasController
 [RoutePrefix("api/tema")]
 public class TemaController : ApiController
@@ -83,4 +84,34 @@ public class TemaController : ApiController
 
 Una vez hecho esto, comprobamos por Postman que los métodos se llamen bien.
 
+Esto se hará  para formato, edición y Autor (con la misma estructura).
+### Crear Modelos (POJO)
+
+POJO -> Plain Old Java Object. Un objeto plano como los modelos que estamos creando.
+
+Crearemos modelos de Temas, Autor, Edición y Formato.
+
+```c# title='Tema.cs'
+  public class Tema
+  {
+      public int Id { get; set; }
+      public string Temas { get; set; }
+  }
+```
+
+```C# title='Autor'
+public class Autor
+{
+    public int id { get; set; }
+    public string nombre { get; set; }
+}
+```
+
+```C# title='Edicion'
+ public class Edicion
+ {
+     public int id { get; set; }
+     public string nombre { get; set; }
+ }
+```
 
