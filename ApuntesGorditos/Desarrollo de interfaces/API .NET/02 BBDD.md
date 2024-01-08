@@ -84,7 +84,10 @@ Archivo .env a la altura dentro del proyecto raíz:
 ```C# hl:3 title='Cargar Variables de entorno'
 private ConnectionBD()
 {
-    DotEnv.Load(); // Cargar variables de entorno del archivo .env
+// Cargar variables de entorno desde el archivo .env
+// Poner ruta absoluta de tu archivo .env ( Temporal hasta arreglar)
+var rutaAbsoluta = "D:\\DAM\\DAM_Segundo\\Desarrollo_De_Interfaces\\Proyectos_discoDuro\\api-rest-libreria-.net\\api-libreria-dotnet\\.env";
+DotEnv.Load(options: new DotEnvOptions(envFilePaths: new[] { rutaAbsoluta }));
     string connectionString = GetConnectionURL();
     try
     {
@@ -111,6 +114,7 @@ private ConnectionBD()
 
 De esta forma, protegemos información que puede ser importante.
 
+Saber mas: [Dotenv explicado](https://github.com/bolorundurowb/dotenv.net)
 ## Conexión BBDD
 
 Clase que tendrá la instancia de la conexión de la base de datos con un patrón singleton.
