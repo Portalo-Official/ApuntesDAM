@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/02 BBDD.md",
+                "file": "Backend/Spring/Anotaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/02 BBDD.md",
+                "file": "Backend/Spring/Anotaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/02 BBDD.md",
+                "file": "Backend/Spring/Anotaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/02 BBDD.md"
+                "file": "Backend/Spring/Anotaciones.md"
               }
             }
           }
@@ -169,11 +169,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6c6af7b46b1abfdc",
+  "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
+    "Sin título",
+    "Backend/Spring/ANEXO/Pasted image 20240109085435.png",
+    "Backend/Spring/ANEXO",
+    "Backend/Spring/Spring Variantes.md",
+    "Backend/Spring/Anotaciones.md",
+    "Backend/Spring/Maven.md",
+    "Backend/Spring/Instalacion/Spring instalación.md",
+    "Desarrollo de interfaces/API .NET/02 BBDD.md",
     "Desarrollo de interfaces/API .NET/01-API .Net.md",
     "Desarrollo de interfaces/API .NET/00-API .md",
-    "Desarrollo de interfaces/API .NET/02 BBDD.md",
     "Desarrollo de interfaces/API .NET/03 API - BBDD.md",
     "Desarrollo de interfaces/API .NET/ANEXO/carpeta-sql.png",
     "Desarrollo de interfaces/API .NET/ANEXO/archivo.env.png",
@@ -185,7 +192,6 @@
     "Desarrollo de interfaces/API .NET/ANEXO/contenido-resultante.png",
     "Desarrollo de interfaces/API .NET/ANEXO/api-web-proyecto.png",
     "Desarrollo de interfaces/API .NET/ANEXO/Pasted image 20240106170528.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/crear-proyecto-asp.png",
     "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
     "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
@@ -207,15 +213,10 @@
     "Frontend/Angular/01 Explicacion Angular/ANEXO",
     "Frontend/Angular/01 Explicacion Angular/Directiva nglf.md",
     "Frontend/Angular/01 Explicacion Angular",
-    "Backend/Node.js/00 Fundamentos Node/07 npm.md",
-    "Backend/Node.js/01 Bases de Node/00 Node Bases Índice.md",
-    "Backend/Node.js/01 Bases de Node/Importar archivos de nuestro proyecto.md",
-    "Backend/Node.js/01 Bases de Node/Recibir información línea comando.md",
     "Backend/Node.js/01 Bases de Node/ANEXO",
     "Backend/Node.js/Express",
     "Backend/Node.js/01 Bases de Node",
     "Lenguajes/JavaScript/Asincronia/Sin título",
-    "Lenguajes/JavaScript/08 Asincronía",
-    "Backend/Node.js/00 Fundamentos Node/ANEXO"
+    "Lenguajes/JavaScript/08 Asincronía"
   ]
 }
