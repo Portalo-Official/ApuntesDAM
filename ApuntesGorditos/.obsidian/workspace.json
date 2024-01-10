@@ -23,7 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/Anotaciones.md",
+                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89818f59b984b47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de interfaces/API .NET/04 Response y Request.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/Anotaciones.md",
+                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/Anotaciones.md",
+                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/Anotaciones.md"
+                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md"
               }
             }
           }
@@ -169,8 +181,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf466b15e60fb0d3",
+  "active": "6c6af7b46b1abfdc",
   "lastOpenFiles": [
+    "Desarrollo de interfaces/API .NET/ANEXO/dao_structure.jpg",
+    "Desarrollo de interfaces/API .NET/ANEXO/1 vwUfsXkMq-xaYZt3L1LQPw.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/3XnBN.png",
+    "Desarrollo de interfaces/API .NET/04 Response y Request.md",
+    "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
+    "Desarrollo de interfaces/API .NET/02 BBDD.md",
     "Sin título",
     "Backend/Spring/ANEXO/Pasted image 20240109085435.png",
     "Backend/Spring/ANEXO",
@@ -178,10 +196,8 @@
     "Backend/Spring/Anotaciones.md",
     "Backend/Spring/Maven.md",
     "Backend/Spring/Instalacion/Spring instalación.md",
-    "Desarrollo de interfaces/API .NET/02 BBDD.md",
     "Desarrollo de interfaces/API .NET/01-API .Net.md",
     "Desarrollo de interfaces/API .NET/00-API .md",
-    "Desarrollo de interfaces/API .NET/03 API - BBDD.md",
     "Desarrollo de interfaces/API .NET/ANEXO/carpeta-sql.png",
     "Desarrollo de interfaces/API .NET/ANEXO/archivo.env.png",
     "Desarrollo de interfaces/API .NET/ANEXO/nuget-dotenv.png",
@@ -190,8 +206,6 @@
     "Desarrollo de interfaces/API .NET/ANEXO/Diagrama ER.svg",
     "Desarrollo de interfaces/ANEXO",
     "Desarrollo de interfaces/API .NET/ANEXO/contenido-resultante.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/api-web-proyecto.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/Pasted image 20240106170528.png",
     "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
     "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
@@ -211,12 +225,10 @@
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas",
     "Lenguajes/JavaScript/08 Asincronía/Variables de Entorno.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO",
-    "Frontend/Angular/01 Explicacion Angular/Directiva nglf.md",
     "Frontend/Angular/01 Explicacion Angular",
     "Backend/Node.js/01 Bases de Node/ANEXO",
     "Backend/Node.js/Express",
     "Backend/Node.js/01 Bases de Node",
-    "Lenguajes/JavaScript/Asincronia/Sin título",
-    "Lenguajes/JavaScript/08 Asincronía"
+    "Lenguajes/JavaScript/Asincronia/Sin título"
   ]
 }
