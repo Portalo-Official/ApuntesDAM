@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
+                "file": "Android/SQLite-Android/SQLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
+                "file": "Android/SQLite-Android/SQLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
+                "file": "Android/SQLite-Android/SQLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md"
+                "file": "Android/SQLite-Android/SQLite.md"
               }
             }
           }
@@ -183,29 +183,37 @@
   },
   "active": "6c6af7b46b1abfdc",
   "lastOpenFiles": [
+    "BBDD/SQLite/SQLite-Fundamentos/SQLite.md",
+    "Android/SQLite-Android/SQLite.md",
+    "Android/SQLite-Android",
+    "Sin título",
+    "Android",
+    "BBDD/SQLite/SQLite-Fundamentos",
+    "BBDD/SQLite/ANEXO/sqlite-version-consola.png",
+    "BBDD/SQLite/ANEXO/variable de entorno.png",
+    "BBDD/SQLite/ANEXO/descargar.png",
+    "BBDD/SQLite/ANEXO",
+    "BBDD/SQLite",
+    "BBDD",
+    "Backend/Spring/ANEXO/restar_shorcut.png",
+    "Backend/Spring/Spring Variantes.md",
+    "Backend/Spring/Primer proyecto.md",
+    "Backend/Spring/Anotaciones.md",
+    "Backend/Spring/Maven.md",
+    "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
     "Desarrollo de interfaces/API .NET/ANEXO/dao_structure.jpg",
     "Desarrollo de interfaces/API .NET/ANEXO/1 vwUfsXkMq-xaYZt3L1LQPw.png",
     "Desarrollo de interfaces/API .NET/ANEXO/3XnBN.png",
     "Desarrollo de interfaces/API .NET/04 Response y Request.md",
-    "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
     "Desarrollo de interfaces/API .NET/02 BBDD.md",
-    "Sin título",
     "Backend/Spring/ANEXO/Pasted image 20240109085435.png",
     "Backend/Spring/ANEXO",
-    "Backend/Spring/Spring Variantes.md",
-    "Backend/Spring/Anotaciones.md",
-    "Backend/Spring/Maven.md",
     "Backend/Spring/Instalacion/Spring instalación.md",
     "Desarrollo de interfaces/API .NET/01-API .Net.md",
     "Desarrollo de interfaces/API .NET/00-API .md",
     "Desarrollo de interfaces/API .NET/ANEXO/carpeta-sql.png",
     "Desarrollo de interfaces/API .NET/ANEXO/archivo.env.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/nuget-dotenv.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/agregar-referencias.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/nuget-mysql-connector.png",
-    "Desarrollo de interfaces/API .NET/ANEXO/Diagrama ER.svg",
     "Desarrollo de interfaces/ANEXO",
-    "Desarrollo de interfaces/API .NET/ANEXO/contenido-resultante.png",
     "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
     "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
@@ -221,14 +229,6 @@
     "Lenguajes/TypeScript/00_Entorno/01_Configuracion.md",
     "Backend/Node.js/01 Bases de Node/package.json.md",
     "Frontend/Angular/00 instalacion/Angular actualización.md",
-    "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
-    "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas",
-    "Lenguajes/JavaScript/08 Asincronía/Variables de Entorno.md",
-    "Frontend/Angular/01 Explicacion Angular/ANEXO",
-    "Frontend/Angular/01 Explicacion Angular",
-    "Backend/Node.js/01 Bases de Node/ANEXO",
-    "Backend/Node.js/Express",
-    "Backend/Node.js/01 Bases de Node",
-    "Lenguajes/JavaScript/Asincronia/Sin título"
+    "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }

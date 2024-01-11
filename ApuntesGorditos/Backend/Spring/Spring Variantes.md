@@ -11,6 +11,6 @@
 ## Spring MVC
 
 - Bloqueante
-- Sincrona
+- Síncrona
 - Un hilo por petición
-- 
+- Servlet : Mecanismo de comunicación
