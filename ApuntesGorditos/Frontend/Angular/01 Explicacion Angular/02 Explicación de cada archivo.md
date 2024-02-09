@@ -1,7 +1,7 @@
 
 ## Proyecto desde 0
 
-Al crear un proyecto desde 0: `{bash}ng new estudiar-ficheros --stanalone false` 
+Al crear un proyecto desde 0: `{bash}ng new estudiar-ficheros --standalone false` 
 
 Te da opción de si quieres CSS, Sass y otros, en estos apuntes _usaremos CSS_.
 

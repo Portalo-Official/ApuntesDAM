@@ -18,24 +18,12 @@
             }
           },
           {
-            "id": "6c6af7b46b1abfdc",
+            "id": "ebf18e45f75a9592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BBDD/SQLite/SQLite-Fundamentos/SQLite Tipo Dato.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad0be8892a948c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BBDD/SQLite/SQLite-Fundamentos/SQLite.md",
+                "file": "Lenguajes/TypeScript/01_TiposBasicos/05 Enums.md",
                 "mode": "preview",
                 "source": false
               }
@@ -148,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,10 +154,35 @@
   },
   "active": "59ed0cc4a320a455",
   "lastOpenFiles": [
-    "BBDD/SQLite/SQLite-Fundamentos/SQLite.md",
-    "BBDD/SQLite/SQLite-Fundamentos/SQLite Tipo Dato.md",
-    "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite.png",
+    "Lenguajes/TypeScript/01_TiposBasicos/05 Enums.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/02 Intersection type.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/03 Literal types.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/08 Type narrowing.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
+    "Lenguajes/JavaScript/04-Patron_Modulo/02 Patrón Módulo.md",
+    "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
+    "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
+    "Lenguajes/TypeScript/03_POO_TS/02 Propiedades.md",
+    "Lenguajes/JavaScript/04-Patron_Modulo/ANEXO/fuera-de-scope-iife.png",
+    "Lenguajes/JavaScript/04-Patron_Modulo/01 Problemática.md",
+    "Lenguajes/JavaScript/04-Patron_Modulo/00 Patron Modulo Indice.md",
+    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
+    "Frontend/Angular/01 Explicacion Angular/01 Exposición sobre angular.md",
+    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
+    "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
+    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
+    "Frontend/Angular/01 Explicacion Angular/Directiva ngFor.md",
+    "Frontend/Angular/01 Explicacion Angular/Directiva nglf.md",
     "Android/SQLite-Android/SQLite.md",
+    "Backend/Spring/Anotaciones.md",
+    "Backend/Spring/ORM.md",
+    "Backend/Spring/Spring Variantes.md",
+    "Backend/Spring/Primer proyecto.md",
+    "Backend/Spring/Maven.md",
+    "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite.png",
     "Android/SQLite-Android",
     "Sin título",
     "Android",
@@ -181,36 +194,12 @@
     "BBDD/SQLite",
     "BBDD",
     "Backend/Spring/ANEXO/restar_shorcut.png",
-    "Backend/Spring/Spring Variantes.md",
-    "Backend/Spring/Primer proyecto.md",
-    "Backend/Spring/Anotaciones.md",
-    "Backend/Spring/Maven.md",
-    "Desarrollo de interfaces/API .NET/03 Patrón DAO-DTO.md",
     "Desarrollo de interfaces/API .NET/ANEXO/dao_structure.jpg",
     "Desarrollo de interfaces/API .NET/ANEXO/1 vwUfsXkMq-xaYZt3L1LQPw.png",
     "Desarrollo de interfaces/API .NET/ANEXO/3XnBN.png",
-    "Desarrollo de interfaces/API .NET/04 Response y Request.md",
-    "Desarrollo de interfaces/API .NET/02 BBDD.md",
     "Backend/Spring/ANEXO/Pasted image 20240109085435.png",
     "Backend/Spring/ANEXO",
-    "Backend/Spring/Instalacion/Spring instalación.md",
-    "Desarrollo de interfaces/API .NET/01-API .Net.md",
-    "Desarrollo de interfaces/API .NET/00-API .md",
-    "Desarrollo de interfaces/API .NET/ANEXO/carpeta-sql.png",
     "Desarrollo de interfaces/ANEXO",
-    "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
-    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
-    "Frontend/Angular/01 Explicacion Angular/Directiva ngFor.md",
-    "Frontend/Angular/01 Explicacion Angular/05 One Way Data Binding.md",
-    "Frontend/Design Systems/Bootstrap/Utilities/00 Utilities.md",
-    "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
-    "Frontend/Angular/00 instalacion/Paquete @angular_cli.md",
-    "Frontend/Design Systems/Bootstrap/Utilities/04 Text.md",
-    "Frontend/Design Systems/Bootstrap/Utilities/03 Color.md",
-    "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
-    "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
-    "Lenguajes/TypeScript/00_Entorno/01_Configuracion.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
