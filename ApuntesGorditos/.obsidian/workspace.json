@@ -18,39 +18,19 @@
             }
           },
           {
-            "id": "ebf18e45f75a9592",
+            "id": "40b1fc97d8097815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/TypeScript/01_TiposBasicos/05 Enums.md",
+                "file": "Frontend/Angular/04 Servicios/HttpClient.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "42858b845763927b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Frontend/Angular/angular-cheat-sheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "7a05c5c5cfcbb19b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Frontend/Angular/angular-cheat-sheet.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Angular/angular-cheat-sheet.pdf",
+                "file": "Frontend/Angular/04 Servicios/HttpClient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Angular/angular-cheat-sheet.pdf",
+                "file": "Frontend/Angular/04 Servicios/HttpClient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Angular/angular-cheat-sheet.pdf"
+                "file": "Frontend/Angular/04 Servicios/HttpClient.md"
               }
             }
           }
@@ -177,8 +157,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7a05c5c5cfcbb19b",
+  "active": "40b1fc97d8097815",
   "lastOpenFiles": [
+    "Lenguajes/TypeScript/01_TiposBasicos/05 Enums.md",
+    "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
+    "Lenguajes/TypeScript/03_POO_TS/08 Index Signature.md",
+    "Lenguajes/TypeScript/03_POO_TS/07 Interface.md",
+    "Lenguajes/TypeScript/03_POO_TS/06 Abstract.md",
+    "Lenguajes/TypeScript/03_POO_TS/04 Herencia.md",
+    "Lenguajes/TypeScript/03_POO_TS/03 Elementos Estáticos.md",
+    "Lenguajes/TypeScript/03_POO_TS/00 Seccion POO.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/08 Type narrowing.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/04 Nullable types.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/03 Literal types.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/02 Intersection type.md",
+    "Lenguajes/TypeScript/02_TiposAvanzados/00 Tipos Avanzados.md",
+    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "Lenguajes/JavaScript/04-Patron_Modulo/02 Patrón Módulo.md",
+    "Frontend/Angular/05 Interfaces/OnInit.md",
+    "Frontend/Angular/04 Servicios/HttpClient.md",
+    "Frontend/Angular/05 Interfaces",
+    "Frontend/Angular/04 Servicios",
     "Lenguajes/JavaScript/01-FundamentosJS/03 Arreglos.md",
     "Desarrollo de interfaces/API .NET/FrontEnd/JSON Server.md",
     "Lenguajes/TypeScript/01_TiposBasicos/03 Arrays.md",
@@ -191,35 +193,13 @@
     "Desarrollo de interfaces/API .NET/Backend/00-API .md",
     "Desarrollo de interfaces/API .NET/FrontEnd",
     "Desarrollo de interfaces/API .NET/Backend",
-    "Lenguajes/JavaScript/01-FundamentosJS/03 strings.md",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
-    "Frontend/Design Systems/Bootstrap/Components/02 List group.md",
-    "Frontend/Angular/01 Explicacion Angular/00 Exposición Angular Índice.md",
     "Frontend/Design Systems/Bootstrap/Components/ANEXO/list-gruop.png",
     "Frontend/Design Systems/Bootstrap/Components/ANEXO",
-    "Frontend/Design Systems/Bootstrap/Components/00 Indice Components.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/ngfor-html.png",
-    "Frontend/Angular/01 Explicacion Angular/04 Interpolación.md",
-    "Lenguajes/TypeScript/01_TiposBasicos/05 Enums.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/02 Intersection type.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/03 Literal types.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/06 Nullish Coalescing Operator.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/08 Type narrowing.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
-    "Lenguajes/JavaScript/04-Patron_Modulo/02 Patrón Módulo.md",
-    "Lenguajes/JavaScript/06-Vite y Modulos/04 Módulos.md",
-    "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
-    "Lenguajes/TypeScript/03_POO_TS/02 Propiedades.md",
     "Lenguajes/JavaScript/04-Patron_Modulo/ANEXO/fuera-de-scope-iife.png",
-    "Lenguajes/JavaScript/04-Patron_Modulo/01 Problemática.md",
-    "Lenguajes/JavaScript/04-Patron_Modulo/00 Patron Modulo Indice.md",
-    "Frontend/Angular/01 Explicacion Angular/02 Explicación de cada archivo.md",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite.png",
     "Android/SQLite-Android",
     "Sin título",
-    "Android",
-    "BBDD/SQLite/SQLite-Fundamentos",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite-version-consola.png",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/variable de entorno.png",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/descargar.png",
