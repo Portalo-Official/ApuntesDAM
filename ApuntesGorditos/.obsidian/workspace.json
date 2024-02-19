@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "fd81a5cefd6b9e7e",
+            "id": "0cff58a970d00cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/03 Comandos.md",
+                "file": "Frontend/Angular/06 Routing/Lazyload.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/03 Comandos.md",
+                "file": "Frontend/Angular/06 Routing/Lazyload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/03 Comandos.md",
+                "file": "Frontend/Angular/06 Routing/Lazyload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Angular/00 instalacion/03 Comandos.md"
+                "file": "Frontend/Angular/06 Routing/Lazyload.md"
               }
             }
           }
@@ -157,14 +157,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fd81a5cefd6b9e7e",
+  "active": "0cff58a970d00cde",
   "lastOpenFiles": [
+    "Frontend/Angular/06 Routing/ANEXO/Pasted image 20240219233230.png",
+    "Frontend/Angular/06 Routing/ANEXO",
+    "Frontend/Angular/06 Routing/Lazyload.md",
+    "Frontend/Angular/06 Routing",
+    "Frontend/Angular/04 Servicios/HttpClient.md",
+    "Frontend/Angular/00 instalacion/03 Comandos.md",
     "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
     "Frontend/Angular/00 instalacion/01 Angular actualización.md",
     "Frontend/Angular/00 instalacion/02 Paquete @angular_cli.md",
-    "Frontend/Angular/00 instalacion/03 Comandos.md",
     "Frontend/Angular/01 Explicacion Angular/03 Componentes.md",
-    "Frontend/Angular/04 Servicios/HttpClient.md",
     "Lenguajes/TypeScript/01_TiposBasicos/05 Enums.md",
     "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
     "Lenguajes/TypeScript/03_POO_TS/08 Index Signature.md",
@@ -186,8 +190,6 @@
     "Frontend/Angular/05 Interfaces/OnInit.md",
     "Frontend/Angular/05 Interfaces",
     "Frontend/Angular/04 Servicios",
-    "Lenguajes/JavaScript/01-FundamentosJS/03 Arreglos.md",
-    "Desarrollo de interfaces/API .NET/FrontEnd/JSON Server.md",
     "Frontend/Angular/02 decoradores/ANEXO/formulario-viewchild.png",
     "Frontend/Angular/02 decoradores/ANEXO",
     "Frontend/Angular/02 decoradores",
@@ -198,8 +200,6 @@
     "Frontend/Angular/01 Explicacion Angular/ANEXO/ngfor-html.png",
     "Lenguajes/JavaScript/04-Patron_Modulo/ANEXO/fuera-de-scope-iife.png",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite.png",
-    "Android/SQLite-Android",
-    "Sin título",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite-version-consola.png",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/variable de entorno.png",
     "BBDD/SQLite/SQLite-Fundamentos/ANEXO/descargar.png",
