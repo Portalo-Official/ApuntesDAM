@@ -21,7 +21,7 @@ Comando:
 
 `{bash}ng new my-app`
 
-Pero como se explica en [[Angular actualización]] usaremos:
+Pero como se explica en [[01 Angular actualización]] usaremos:
 
 `{bash}ng new my-app --standalone false`
 

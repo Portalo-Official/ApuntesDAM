@@ -79,7 +79,7 @@ Ahora vamos a borrar el html y le ponemos solo un `{html}<h1>` y un `{html}<p>`
 </p>
 ```
 
-Y si [[Paquete @angular_cli#Levantar servidor|levantamos]] el servidor, veremos los cambios:
+Y si [[02 Paquete @angular_cli#Levantar servidor|levantamos]] el servidor, veremos los cambios:
 
 ![[ts-en-html.png]]
 
@@ -130,7 +130,7 @@ Llamaremos al componente en el HTML.
 <app-counter></app-counter>
 ```
 
-Si guardamos y el servidor esta [[Paquete @angular_cli#Levantar servidor|levantado]] arroja error. Pues para que un componente sea visible tiene que esta importando en _app.module.ts_.
+Si guardamos y el servidor esta [[02 Paquete @angular_cli#Levantar servidor|levantado]] arroja error. Pues para que un componente sea visible tiene que esta importando en _app.module.ts_.
 
 ### app.module.ts
 
@@ -167,7 +167,7 @@ Una vez hecho esto ya funciona nuestra aplicación (reiniciar server o vsCode si
 
 Una convención es por cada Componente o Modulo tener una carpeta.
 
-Ejemplo de los directorios del ejemplo de [[Paquete @angular_cli#Generar componentes|heroes]]. 
+Ejemplo de los directorios del ejemplo de [[02 Paquete @angular_cli#Generar componentes|heroes]]. 
 
 ![[directorios-estructura-components.png]]
 
