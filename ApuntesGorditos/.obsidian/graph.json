@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:JavaScript  ",
@@ -53,7 +53,14 @@
       "query": "path:Backend/Node.js  ",
       "color": {
         "a": 1,
-        "rgb": 770361
+        "rgb": 560169
+      }
+    },
+    {
+      "query": "path:Backend/Spring  ",
+      "color": {
+        "a": 1,
+        "rgb": 6546290
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 11.5670103092784,
   "linkStrength": 1,
   "linkDistance": 176,
-  "scale": 0.16037758962996426,
+  "scale": 0.16037758962996432,
   "close": true
 }
