@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/02 Gateway.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/02 Gateway.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/02 Gateway.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/02 Gateway.md"
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md"
               }
             }
           }
@@ -146,16 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df7bb1dc8531bcb3",
+  "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
-    "Backend/Spring/02 Microservicios/02 Gateway.md",
-    "Backend/Spring/02 Microservicios/ANEXO/Pasted image 20240317033308.png",
-    "Backend/Spring/02 Microservicios/ANEXO",
-    "Backend/Spring/02 Microservicios/01 Dependencias.md",
-    "Backend/Spring/02 Microservicios/04 ConfigServer.md",
-    "Backend/Spring/02 Microservicios/03 Eureka.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/02 Gateway.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-decorador.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/gateway-dependencias.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-dependencias.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/63e3d6905bacd6f045a39203_Spring-Cloud-architecture-highlights.jpg",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/micro-vs-monolith-1056x599.jpg",
     "Backend/Spring/Indice.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion",
+    "Backend/Spring/02 Microservicios/00 Introduccion/01 Dependencias.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO",
     "Backend/Spring/01 Inicio/ORM.md",
     "Backend/Spring/01 Inicio/Primer proyecto.md",
     "Backend/Spring/01 Inicio/Spring Variantes.md",
@@ -181,18 +187,12 @@
     "Frontend/Angular/06 Routing",
     "Frontend/Angular/04 Servicios/HttpClient.md",
     "Frontend/Angular/00 instalacion/03 Comandos.md",
-    "Frontend/Angular/00 instalacion/00 Angular Instalación índice.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
     "Frontend/Angular/05 Interfaces",
     "Frontend/Angular/04 Servicios",
     "Frontend/Angular/02 decoradores/ANEXO/formulario-viewchild.png",
     "Frontend/Angular/02 decoradores/ANEXO",
-    "Frontend/Angular/02 decoradores",
     "Frontend/Design Systems/Bootstrap/Components/ANEXO/list-gruop.png",
-    "Frontend/Angular/01 Explicacion Angular/ANEXO/ngfor-html.png",
-    "Lenguajes/JavaScript/04-Patron_Modulo/ANEXO/fuera-de-scope-iife.png",
-    "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite.png",
-    "BBDD/SQLite/SQLite-Fundamentos/ANEXO/sqlite-version-consola.png",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
