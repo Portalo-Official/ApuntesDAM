@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
+                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
+                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
+                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md"
+                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md"
               }
             }
           }
@@ -148,9 +148,19 @@
   },
   "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
-    "Backend/Spring/02 Microservicios/00 Introduccion/02 Gateway.md",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/feign-enable.png",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/feign-interface01.png",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/Pasted image 20240318193410.png",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/00 Microservicios-Comunicación.md",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/estudiante-endpoint.png",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/openfeig-dependencia.png",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO",
     "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/03 Eureka.md",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios",
+    "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-decorador.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/gateway-dependencias.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-dependencias.png",
@@ -158,7 +168,6 @@
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/63e3d6905bacd6f045a39203_Spring-Cloud-architecture-highlights.jpg",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/micro-vs-monolith-1056x599.jpg",
     "Backend/Spring/Indice.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
     "Backend/Spring/02 Microservicios/00 Introduccion",
     "Backend/Spring/02 Microservicios/00 Introduccion/01 Dependencias.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO",
@@ -171,7 +180,6 @@
     "Backend/Spring/01 Inicio/Anotaciones.md",
     "Backend/Spring/01 Inicio",
     "Backend/Spring/01 Inicio/ANEXO/restar_shorcut.png",
-    "Backend/Spring/01 Inicio/ANEXO/Pasted image 20240109085435.png",
     "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
     "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
     "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
@@ -182,17 +190,10 @@
     "Lenguajes/TypeScript/03_POO_TS/08 Index Signature.md",
     "Planes de Estudios/Estudios 2024.md",
     "Frontend/Angular/06 Routing/Lazyload.md",
-    "Frontend/Angular/06 Routing/ANEXO/Pasted image 20240219233230.png",
     "Frontend/Angular/06 Routing/ANEXO",
     "Frontend/Angular/06 Routing",
-    "Frontend/Angular/04 Servicios/HttpClient.md",
-    "Frontend/Angular/00 instalacion/03 Comandos.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
     "Frontend/Angular/05 Interfaces",
-    "Frontend/Angular/04 Servicios",
-    "Frontend/Angular/02 decoradores/ANEXO/formulario-viewchild.png",
-    "Frontend/Angular/02 decoradores/ANEXO",
-    "Frontend/Design Systems/Bootstrap/Components/ANEXO/list-gruop.png",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
