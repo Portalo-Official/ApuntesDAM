@@ -11,6 +11,8 @@ Una vez instalada la dependencia hay que usar el decorado _@EnableFeignClients_ 
 
 ![[feign-enable.png]]
 
+Como este servicio es un cliente de Eureka, es buena practica tambien indicar que será un cliente:
+![[Pasted image 20240319083857.png]]
 # Uso 
 
 Tenemos un endPoint en un servicio llamado getEstudiante:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
+                "file": "Backend/Spring/Documentaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
+                "file": "Backend/Spring/Documentaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
+                "file": "Backend/Spring/Documentaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md"
+                "file": "Backend/Spring/Documentaciones.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf466b15e60fb0d3",
+  "active": "df7bb1dc8531bcb3",
   "lastOpenFiles": [
+    "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
+    "Backend/Spring/Documentaciones.md",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
+    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/Pasted image 20240319083857.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/feign-enable.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/feign-interface01.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/Pasted image 20240318193410.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/00 Microservicios-Comunicación.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/estudiante-endpoint.png",
-    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/openfeig-dependencia.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO",
     "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
@@ -164,9 +167,7 @@
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-decorador.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/gateway-dependencias.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-dependencias.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/63e3d6905bacd6f045a39203_Spring-Cloud-architecture-highlights.jpg",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/micro-vs-monolith-1056x599.jpg",
     "Backend/Spring/Indice.md",
     "Backend/Spring/02 Microservicios/00 Introduccion",
     "Backend/Spring/02 Microservicios/00 Introduccion/01 Dependencias.md",
@@ -179,7 +180,6 @@
     "Backend/Spring/02 Microservicios",
     "Backend/Spring/01 Inicio/Anotaciones.md",
     "Backend/Spring/01 Inicio",
-    "Backend/Spring/01 Inicio/ANEXO/restar_shorcut.png",
     "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
     "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
     "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
