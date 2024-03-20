@@ -40,3 +40,9 @@ eureka:
     fetch-registry: false
 ```
 
+## Lado del Cliente
+
+Desde el lado de cliente usaremos el decorador _@EnableDiscoveryClient_.
+
+![[eureka-cliente.png]]
+

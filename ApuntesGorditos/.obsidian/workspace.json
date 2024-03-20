@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/Documentaciones.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/Documentaciones.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/Documentaciones.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/Documentaciones.md"
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md"
               }
             }
           }
@@ -148,26 +148,29 @@
   },
   "active": "df7bb1dc8531bcb3",
   "lastOpenFiles": [
-    "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
-    "Backend/Spring/Documentaciones.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/circuit-breaker-dhanushka-one.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/05 Servicio Negocio.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/servicio-negocio-dependencias.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-configurations.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-decorator.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-dependencia.png",
+    "Backend/Spring/Documentaciones.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
+    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-cliente.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/Pasted image 20240319083857.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/feign-enable.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/feign-interface01.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/Pasted image 20240318193410.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/00 Microservicios-Comunicación.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/estudiante-endpoint.png",
-    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/openfeig-dependencia.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO",
     "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios",
-    "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-decorador.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/gateway-dependencias.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-dependencias.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/63e3d6905bacd6f045a39203_Spring-Cloud-architecture-highlights.jpg",
     "Backend/Spring/Indice.md",
     "Backend/Spring/02 Microservicios/00 Introduccion",
     "Backend/Spring/02 Microservicios/00 Introduccion/01 Dependencias.md",
@@ -187,9 +190,6 @@
     "Lenguajes/TypeScript/03_POO_TS/05 Private Protected.md",
     "Lenguajes/TypeScript/03_POO_TS/04 Herencia.md",
     "Lenguajes/TypeScript/03_POO_TS/07 Interface.md",
-    "Lenguajes/TypeScript/03_POO_TS/08 Index Signature.md",
-    "Planes de Estudios/Estudios 2024.md",
-    "Frontend/Angular/06 Routing/Lazyload.md",
     "Frontend/Angular/06 Routing/ANEXO",
     "Frontend/Angular/06 Routing",
     "Frontend/Angular/angular-cheat-sheet.pdf",
