@@ -7,4 +7,6 @@ Una vez vez instalado. Abrir la terminal y probar siguientes comandos.
 
 `wsl -l -o` --> Muestra distribuciones disponibles para instalar.
 
+`wsl --install -d [nombre_distribucion]` --> Instalar distribución.
+
 

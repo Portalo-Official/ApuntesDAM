@@ -4,7 +4,9 @@ Hay dos formas de instalar Docker en Windows :
 - Hyper-V
 - [[01 WSL | WSL]]
 
+La opción de WSL es la mas recomendada porque usa Linux de forma nativa.
 
+Siguiente paso instalar [docker desktop](https://www.docker.com/products/docker-desktop/).
 ## Activar o Desactivar características en Windows
 
 En el buscador de Windows ponemos activar o desactivar características 

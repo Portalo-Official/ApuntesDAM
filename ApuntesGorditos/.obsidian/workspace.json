@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9f6af078b89d623c",
+        "id": "09aa5edef63a788f",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3772237b91cba8",
+            "id": "c6728d049d3bf347",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CI-CD/Docker/02 Docker Desktop/comandos-basicos.pdf"
+              }
+            }
+          },
+          {
+            "id": "7b1079266fa634f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md",
+                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 206.5
   },
   "right": {
     "id": "4292db9875678a45",
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md",
+                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md",
+                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md"
+                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md"
               }
             }
           }
@@ -146,12 +157,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ff3772237b91cba8",
+  "active": "7b1079266fa634f4",
   "lastOpenFiles": [
+    "CI-CD/Docker/02 Docker Desktop/comandos-basicos.pdf",
+    "CI-CD/Docker/02 Docker Desktop/Comandos.md",
+    "Sin título.canvas",
     "CI-CD/Docker/00 Instalacion/00 Docker Windows.md",
+    "CI-CD/Docker/02 Docker Desktop",
+    "CI-CD/Docker/01 Teoria/3-Arquitectura+de+Docker.pdf",
+    "CI-CD/Docker/01 Teoria/2-Maquinas+Virtuales+y+Contenedores.pdf",
+    "CI-CD/Docker/01 Teoria/1-Introducción+a+Docker.pdf",
+    "CI-CD/Docker/01 Teoria",
     "CI-CD/Docker/00 Instalacion/01 WSL.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
     "CI-CD/Docker/00 Instalacion/ANEXO/Pasted image 20240327183110.png",
+    "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
     "CI-CD/Docker/00 Instalacion/ANEXO/Pasted image 20240327182935.png",
     "CI-CD/Docker/00 Instalacion/ANEXO",
     "CI-CD/Docker/00 Instalacion",
@@ -173,27 +192,19 @@
     "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/00 Microservicios-Comunicación.md",
-    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO",
     "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
-    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios",
     "Backend/Spring/Indice.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion",
     "Backend/Spring/02 Microservicios/00 Introduccion/01 Dependencias.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO",
     "Backend/Spring/01 Inicio/ORM.md",
     "Backend/Spring/01 Inicio/Primer proyecto.md",
     "Backend/Spring/01 Inicio/Spring Variantes.md",
     "Backend/Spring/01 Inicio/Maven.md",
     "Backend/Spring/00 Instalacion/Spring instalación.md",
-    "Backend/Spring/02 Microservicios",
     "Backend/Spring/01 Inicio/Anotaciones.md",
-    "Backend/Spring/01 Inicio",
     "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
     "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
     "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
     "Lenguajes/TypeScript/03_POO_TS/02 Propiedades.md",
-    "Lenguajes/TypeScript/03_POO_TS/05 Private Protected.md",
-    "Lenguajes/TypeScript/03_POO_TS/04 Herencia.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
