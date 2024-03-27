@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md"
+                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "ff3772237b91cba8",
   "lastOpenFiles": [
+    "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilence4j-implementation.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-circuit-breaker.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-implementation.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/circuit-breaker-dhanushka-one.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/05 Servicio Negocio.md",

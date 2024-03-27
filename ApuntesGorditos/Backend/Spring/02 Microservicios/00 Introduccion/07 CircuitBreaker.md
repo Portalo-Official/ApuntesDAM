@@ -70,6 +70,7 @@ resilience4j.circuitbreaker:
 	  automaticTransitionFromOpenToHalfOpenEnabled: true
 	  # Estado de espera, para saber si te esta fallando o no una peticion
 	  waitDurationInOpenState: 5s
+	  # Cantidad de fallos que permite
 	  failureRateThreshold: 50
 	  eventConsumerBufferSize: 10
 ```
