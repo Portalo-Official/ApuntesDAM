@@ -60,11 +60,9 @@ spring:
 		  predicates:
 		    - Path= /curso/**
 eureka:
-	instance:
-	  hostname: localhost
-	client:
-	  service-url:
-	    defaultZone: http://${eureka.instance.hostname}:8761/eureka
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
 ```
 
 

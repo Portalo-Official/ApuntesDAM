@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df7bb1dc8531bcb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff3772237b91cba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
+                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
+                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
+                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md"
+                "file": "CI-CD/Docker/00 Instalacion/01 WSL.md"
               }
             }
           }
@@ -161,7 +148,15 @@
   },
   "active": "ff3772237b91cba8",
   "lastOpenFiles": [
+    "CI-CD/Docker/00 Instalacion/00 Docker Windows.md",
+    "CI-CD/Docker/00 Instalacion/01 WSL.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
+    "CI-CD/Docker/00 Instalacion/ANEXO/Pasted image 20240327183110.png",
+    "CI-CD/Docker/00 Instalacion/ANEXO/Pasted image 20240327182935.png",
+    "CI-CD/Docker/00 Instalacion/ANEXO",
+    "CI-CD/Docker/00 Instalacion",
+    "CI-CD/Docker",
+    "CI-CD",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilence4j-implementation.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-circuit-breaker.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-implementation.png",
@@ -176,9 +171,7 @@
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-dependencia.png",
     "Backend/Spring/Documentaciones.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/eureka-cliente.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
-    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO/Pasted image 20240319083857.png",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/00 Microservicios-Comunicación.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/ANEXO",
     "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
@@ -201,11 +194,6 @@
     "Lenguajes/TypeScript/03_POO_TS/02 Propiedades.md",
     "Lenguajes/TypeScript/03_POO_TS/05 Private Protected.md",
     "Lenguajes/TypeScript/03_POO_TS/04 Herencia.md",
-    "Lenguajes/TypeScript/03_POO_TS/07 Interface.md",
-    "Frontend/Angular/06 Routing/ANEXO",
-    "Frontend/Angular/06 Routing",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
-    "Frontend/Angular/05 Interfaces",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
