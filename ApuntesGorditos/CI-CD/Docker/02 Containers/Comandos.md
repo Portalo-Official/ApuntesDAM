@@ -12,12 +12,18 @@
 - `docker images` --> Muestra las imágenes instaladas en el sistema.
 - `docker pull [nombre_imagen]` --> Instalar imagen.
 - `docker pull [image]:tag` --> Instalar imagen con un tag en concreto (Version), por defecto siempre es la ultima (_latest_).
+- `docker rmi [id_imagen]` --> Borrar imagen.
+- `docker rmi [nombre_imagen]` --> Borrar imagen. 
+
 ### Comandos contenedores
 
 - `docker run [imagen]` --> Crea un container sobre la imagen, si la imagen no esta instalada, también lo hará.
-
-
-
+- `docker run --name prueba1 ubuntu` --> Crea container de imagen Ubuntu con el nombre _prueba1_.
+- `docker stop [nombre_container]` --> Parar container en ejecución.
+- `docker stop [id_container]` --> Parar container en ejecución.
+- `docker start [nombre_container]` --> Ejecuta un container ya creado.
+- `docker rm [id_container]` --> Borrar container.
+- `docker rm [nombre_container]` --> Borrar container. 
 ## Profundizando
 
 ### docker ps

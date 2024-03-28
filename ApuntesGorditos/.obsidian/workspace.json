@@ -11,9 +11,11 @@
             "id": "c6728d049d3bf347",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CI-CD/Docker/02 Docker Desktop/comandos-basicos.pdf"
+                "file": "CI-CD/Docker/Docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,10 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md",
+                "file": "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d08b2d3b7929747f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md",
+                "file": "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md",
+                "file": "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI-CD/Docker/02 Docker Desktop/Comandos.md"
+                "file": "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md"
               }
             }
           }
@@ -159,11 +169,18 @@
   },
   "active": "7b1079266fa634f4",
   "lastOpenFiles": [
-    "CI-CD/Docker/02 Docker Desktop/comandos-basicos.pdf",
-    "CI-CD/Docker/02 Docker Desktop/Comandos.md",
+    "CI-CD/Docker/02 Containers/Comandos.md",
+    "CI-CD/Docker/Docker.md",
+    "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
+    "CI-CD/Docker/02 Containers/Docker.md",
+    "CI-CD/Docker/02 Containers/Container running.md",
+    "CI-CD/Docker/02 Containers/ANEXO/verificar-container-intercativo.png",
+    "CI-CD/Docker/02 Containers/ANEXO/container-interactivo.png",
+    "CI-CD/Docker/02 Containers/ANEXO",
+    "CI-CD/Docker/02 Containers/comandos-basicos.pdf",
     "Sin título.canvas",
     "CI-CD/Docker/00 Instalacion/00 Docker Windows.md",
-    "CI-CD/Docker/02 Docker Desktop",
+    "CI-CD/Docker/02 Containers",
     "CI-CD/Docker/01 Teoria/3-Arquitectura+de+Docker.pdf",
     "CI-CD/Docker/01 Teoria/2-Maquinas+Virtuales+y+Contenedores.pdf",
     "CI-CD/Docker/01 Teoria/1-Introducción+a+Docker.pdf",
@@ -175,7 +192,6 @@
     "CI-CD/Docker/00 Instalacion/ANEXO",
     "CI-CD/Docker/00 Instalacion",
     "CI-CD/Docker",
-    "CI-CD",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilence4j-implementation.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-circuit-breaker.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-implementation.png",
@@ -186,8 +202,6 @@
     "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-configurations.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-decorator.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-dependencia.png",
     "Backend/Spring/Documentaciones.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
@@ -202,9 +216,6 @@
     "Backend/Spring/00 Instalacion/Spring instalación.md",
     "Backend/Spring/01 Inicio/Anotaciones.md",
     "Lenguajes/TypeScript/02_TiposAvanzados/07 Type asertion.md",
-    "Lenguajes/TypeScript/02_TiposAvanzados/09 Type Unkwon.md",
-    "Lenguajes/TypeScript/03_POO_TS/01 Clases en TS.md",
-    "Lenguajes/TypeScript/03_POO_TS/02 Propiedades.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
