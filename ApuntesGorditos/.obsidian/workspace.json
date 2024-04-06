@@ -11,19 +11,9 @@
             "id": "c6728d049d3bf347",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CI-CD/Docker/docker-cheat-sheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "1f019a4117813de4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
+                "file": "Backend/Spring/01 Inicio/01 Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
+                "file": "Backend/Spring/01 Inicio/01 Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
+                "file": "Backend/Spring/01 Inicio/01 Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md"
+                "file": "Backend/Spring/01 Inicio/01 Spring.md"
               }
             }
           }
@@ -177,12 +166,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1f019a4117813de4",
+  "active": "c6728d049d3bf347",
   "lastOpenFiles": [
     "CI-CD/Docker/docker-cheat-sheet.pdf",
+    "Backend/Spring/01 Inicio/ANEXO/spring-modules.webp",
+    "Backend/Spring/01 Inicio/01 Spring.md",
+    "Backend/Spring/01 Inicio/02 Container.md",
+    "Backend/Spring/01 Inicio/Anotaciones.md",
+    "CI-CD/Docker/03 Containers avanzado/02 Network.md",
     "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
-    "CI-CD/Docker/Docker.md",
     "CI-CD/Docker/03 Containers avanzado/01 Variables.md",
+    "CI-CD/Docker/Docker.md",
     "CI-CD/Docker/03 Containers avanzado/00 Puertos.md",
     "CI-CD/Docker/03 Containers avanzado",
     "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
@@ -214,17 +208,12 @@
     "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/servicio-negocio-dependencias.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/configserver-configurations.png",
     "Backend/Spring/Documentaciones.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/02 Eureka.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/00 Introduccion.md",
     "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/00 Microservicios-Comunicación.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/06 Configuración Yaml.md",
     "Backend/Spring/Indice.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/01 Dependencias.md",
-    "Backend/Spring/01 Inicio/ORM.md",
-    "Backend/Spring/01 Inicio/Primer proyecto.md",
-    "Backend/Spring/01 Inicio/Spring Variantes.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
