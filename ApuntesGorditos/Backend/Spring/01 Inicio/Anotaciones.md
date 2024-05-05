@@ -2,7 +2,7 @@
 ## Anotaciones de Java
 Ya conocemos alguna: @Override, @Deprecated, @Test.
 
-Son metadatos,, que dan orientaciones al compilador para controlar si el código esta bien escrito.
+Son metadatos, que dan orientaciones al compilador para controlar si el código esta bien escrito.
 
 - No son un mecanismo cerrado: Se pueden crear nuevas
 
