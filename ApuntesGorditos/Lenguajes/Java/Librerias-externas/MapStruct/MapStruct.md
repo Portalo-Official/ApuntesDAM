@@ -12,7 +12,9 @@ Su instalación se puede hacer mediante descarga de su binario o gestor de depen
 Enlaces: 
 - [Pagina Principal](https://mapstruct.org/)
 - [Instalación](https://mapstruct.org/documentation/installation/)
-
+- [Blog ArquitecturaJava](https://www.arquitecturajava.com/java-mapping-con-mapstruts-y-anotaciones/)  
+- [Blog ParadigmaDigital](https://www.paradigmadigital.com/dev/mapstruct/)
+ 
 ## Implementación
 
 La versión 1.5.5.Final es una de las mas estables de 2023 y tiene resueltos muchos bugs. Esta versión viene con anotaciones.
