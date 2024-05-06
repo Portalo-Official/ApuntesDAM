@@ -1,5 +1,6 @@
-
+#MapStruct #Mapper
 # MapStruct
+Enlace de muchos ejemplos que me han salvado: [mapstruct-examples](https://github.com/mapstruct/mapstruct-examples)
 
 ## Introducción
 
@@ -51,3 +52,33 @@ UsuarioDTO entityToDTO(Usuario usuario);
 ```
 
 
+
+## Uso de Lombok 
+
+Si usamos lombok, ahí que usar la siguiente configuracion
+
+```xml hl:14-18 title='Configuracion en pom.xml'
+<build>
+	<plugin>
+		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-compiler-plugin</artifactId>
+		<configuration>
+			<source>17</source> <!-- depende de tu proyecto -->
+			<target>17</target> <!-- depende de tu proyecto -->
+			<annotationProcessorPaths>
+			<path>
+				<groupId>org.mapstruct</groupId>
+				<artifactId>mapstruct-processor</artifactId>
+				<version>${org.mapstruct.version}</version>
+			</path>
+			<path>
+				<groupId>org.projectlombok</groupId>
+				<artifactId>lombok</artifactId>
+				<version>${lombok.version}</version>
+			</path>
+			<!-- other annotation processors -->
+			</annotationProcessorPaths>
+		</configuration>
+	</plugin>
+</build>
+```
