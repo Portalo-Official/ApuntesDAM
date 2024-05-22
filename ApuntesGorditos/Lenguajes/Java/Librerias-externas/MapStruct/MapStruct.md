@@ -1,7 +1,8 @@
 #MapStruct #Mapper
 # MapStruct
-Enlace de muchos ejemplos que me han salvado: [mapstruct-examples](https://github.com/mapstruct/mapstruct-examples)
 
+Enlace de muchos ejemplos que me han salvado: [mapstruct-examples](https://github.com/mapstruct/mapstruct-examples)
+Guía por spring boot: [Guide MapStruct ](https://www.baeldung.com/mapstruct)
 ## Introducción
 
 MapStruct es una biblioteca de mapeo de objetos en Java que facilita la conversión entre diferentes tipos de objetos. Utiliza anotaciones y genera implementaciones en tiempo de compilación, lo que mejora el rendimiento al eliminar la necesidad de reflexión en tiempo de ejecución. Esto hace que MapStruct sea una herramienta ideal para proyectos que requieren mapeo de objetos eficiente y mantenible.

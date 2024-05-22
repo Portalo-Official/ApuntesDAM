@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lenguajes/Java/Librerias-externas/MapStruct/MapStruct.md",
+                "file": "ProyectoTFC/BackEnd/Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lenguajes/Java/Librerias-externas/MapStruct/MapStruct.md",
+                "file": "ProyectoTFC/BackEnd/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lenguajes/Java/Librerias-externas/MapStruct/MapStruct.md",
+                "file": "ProyectoTFC/BackEnd/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lenguajes/Java/Librerias-externas/MapStruct/MapStruct.md"
+                "file": "ProyectoTFC/BackEnd/Kafka.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,23 @@
   },
   "active": "d08b2d3b7929747f",
   "lastOpenFiles": [
-    "Desarrollo de interfaces/Accesibilidad/Enlaces.md",
+    "ProyectoTFC/BackEnd/Estructuras y porque/01 - Monorepo para Microservicios.md",
+    "ProyectoTFC/BackEnd/Kafka.md",
+    "Frontend/Angular/angular-cheat-sheet.pdf",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515232035.png",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/pom-padre-modificado.png",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515230832.png",
+    "ProyectoTFC/BackEnd/Maven Comandos.md",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/pom.xml-limpio.png",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515225238.png",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515212443.png",
+    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO",
+    "ProyectoTFC/BackEnd/Estructuras y porque",
     "Lenguajes/Java/Librerias-externas/MapStruct/MapStruct.md",
+    "ProyectoTFC/CD-CI",
+    "ProyectoTFC/BackEnd",
+    "ProyectoTFC",
+    "Desarrollo de interfaces/Accesibilidad/Enlaces.md",
     "Desarrollo de interfaces/Accesibilidad",
     "Lenguajes/Java/Librerias-externas/MapStruct/ANEXO/interface-mapper.png",
     "Lenguajes/Java/Librerias-externas/MapStruct/ANEXO/interface-mapper.png",
@@ -158,43 +173,28 @@
     "Lenguajes/Java/Librerias-externas/MapStruct",
     "Lenguajes/Java/Librerias-externas",
     "Backend/Spring/01 Inicio/Maven.md",
-    "Backend/Spring/Sin título",
     "Backend/Spring/01 Inicio/ORM.md",
     "Backend/Spring/01 Inicio/Primer proyecto.md",
     "Backend/Spring/01 Inicio/Anotaciones.md",
     "Backend/Spring/01 Inicio/02 Container.md",
-    "Backend/Spring/01 Inicio/04 Spring AOP y Aspectos.pdf",
-    "Backend/Spring/01 Inicio/03 Para que sirven los Spring Modules.pdf",
     "Backend/Spring/01 Inicio/ANEXO/SpringModulesContainer.gif",
     "Backend/Spring/01 Inicio/01 Spring.md",
-    "CI-CD/Docker/docker-cheat-sheet.pdf",
     "Backend/Spring/01 Inicio/ANEXO/spring-modules.webp",
     "CI-CD/Docker/03 Containers avanzado/02 Network.md",
     "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
     "CI-CD/Docker/03 Containers avanzado/01 Variables.md",
     "CI-CD/Docker/Docker.md",
     "CI-CD/Docker/03 Containers avanzado/00 Puertos.md",
-    "CI-CD/Docker/03 Containers avanzado",
     "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
     "CI-CD/Docker/02 Containers/Comandos.md",
     "CI-CD/Docker/02 Containers/Container running.md",
     "CI-CD/Docker/02 Containers/Docker.md",
-    "CI-CD/Docker/02 Containers/ANEXO/verificar-container-intercativo.png",
-    "CI-CD/Docker/02 Containers/ANEXO/container-interactivo.png",
-    "CI-CD/Docker/02 Containers/ANEXO",
     "Sin título.canvas",
     "CI-CD/Docker/00 Instalacion/00 Docker Windows.md",
     "CI-CD/Docker/00 Instalacion/01 WSL.md",
-    "CI-CD/Docker/00 Instalacion/ANEXO/Pasted image 20240327183110.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
-    "CI-CD/Docker/00 Instalacion/ANEXO/Pasted image 20240327182935.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilence4j-implementation.png",
-    "Backend/Spring/02 Microservicios/00 Introduccion/ANEXO/resilencej4-circuit-breaker.png",
     "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/05 Servicio Negocio.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/03 Gateway.md",
-    "Backend/Spring/02 Microservicios/01 Comunicacion entre microservicios/Feign.md",
-    "Backend/Spring/Documentaciones.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
