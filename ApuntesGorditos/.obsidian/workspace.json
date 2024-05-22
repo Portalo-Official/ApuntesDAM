@@ -146,8 +146,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d08b2d3b7929747f",
+  "active": "cf466b15e60fb0d3",
   "lastOpenFiles": [
+    "ProyectoTFC/BackEnd/ANEXO/zookeeperproperties-kafka.png",
+    "ProyectoTFC/BackEnd/ANEXO/serverproperties-kafka.png",
+    "ProyectoTFC/BackEnd/ANEXO",
     "ProyectoTFC/BackEnd/Estructuras y porque/01 - Monorepo para Microservicios.md",
     "ProyectoTFC/BackEnd/Kafka.md",
     "Frontend/Angular/angular-cheat-sheet.pdf",
@@ -171,7 +174,6 @@
     "Lenguajes/Java/Librerias-externas/MapStruct/ANEXO",
     "Android/SQLite-Android/SQLite.md",
     "Lenguajes/Java/Librerias-externas/MapStruct",
-    "Lenguajes/Java/Librerias-externas",
     "Backend/Spring/01 Inicio/Maven.md",
     "Backend/Spring/01 Inicio/ORM.md",
     "Backend/Spring/01 Inicio/Primer proyecto.md",
@@ -179,7 +181,6 @@
     "Backend/Spring/01 Inicio/02 Container.md",
     "Backend/Spring/01 Inicio/ANEXO/SpringModulesContainer.gif",
     "Backend/Spring/01 Inicio/01 Spring.md",
-    "Backend/Spring/01 Inicio/ANEXO/spring-modules.webp",
     "CI-CD/Docker/03 Containers avanzado/02 Network.md",
     "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
     "CI-CD/Docker/03 Containers avanzado/01 Variables.md",
@@ -194,7 +195,6 @@
     "CI-CD/Docker/00 Instalacion/01 WSL.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
     "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/05 Servicio Negocio.md",
     "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
   ]
 }
