@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Azure  ",
+      "color": {
+        "a": 1,
+        "rgb": 5417696
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 1.38076981901606,
+  "lineSizeMultiplier": 0.997063471832781,
+  "collapse-forces": true,
+  "centerStrength": 0.538720367066021,
+  "repelStrength": 13.3193984195769,
+  "linkStrength": 1,
+  "linkDistance": 174,
+  "scale": 1.4019828778869619,
+  "close": true
+}
