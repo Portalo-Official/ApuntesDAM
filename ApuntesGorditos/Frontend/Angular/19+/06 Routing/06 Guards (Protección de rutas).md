@@ -1,0 +1,13 @@
+
+## Tipos
+
+### CanActivate
+
+
+### CanDesactivate
+
+
+### Resolve
+
+
+

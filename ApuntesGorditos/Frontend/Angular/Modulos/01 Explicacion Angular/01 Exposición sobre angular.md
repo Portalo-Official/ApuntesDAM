@@ -17,6 +17,9 @@ Google es quien le da soporte y mantenimiento a Angular. Un punto que da estabil
 
 ![[bloques-fundamentales.png]]
 
+[[Bloques-Angular.canvas|Bloques-Angular]]
+
+
 - Componentes: Bloque de código de Html y typescript, son clases.
 
 - Rutas: Muestra diferentes componentes basados en la URL de la web.

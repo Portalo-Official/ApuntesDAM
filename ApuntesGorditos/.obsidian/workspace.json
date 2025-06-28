@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09aa5edef63a788f",
+        "id": "cc84d59a2ebc95af",
         "type": "tabs",
         "children": [
           {
-            "id": "d08b2d3b7929747f",
+            "id": "882fea327f4211bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Angular/Modulos/06 Routing/00 Introducción al Routing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Introducción al Routing"
             }
           }
         ]
@@ -34,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -50,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -58,14 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 335.5141487121582
   },
   "right": {
     "id": "4292db9875678a45",
@@ -83,7 +96,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -92,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 02 Vite"
             }
           },
           {
@@ -108,9 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lenguajes/JavaScript/06-Vite y Modulos/02 Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 02 Vite"
             }
           },
           {
@@ -118,7 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/Angular/Modulos/06 Routing/00 Introducción al Routing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 00 Introducción al Routing"
             }
           }
         ],
@@ -138,55 +166,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d08b2d3b7929747f",
+  "active": "882fea327f4211bb",
   "lastOpenFiles": [
-    "Frontend/CSS/Webs de interes.md",
-    "ProyectoTFC/BackEnd/Kafka.md",
+    "Frontend/Angular/19+/06 Routing/ANEXO/Pasted image 20240219233230.png",
+    "Frontend/Angular/19+/06 Routing/Routing de Angular.md",
+    "Frontend/Angular/19+/06 Routing/ANEXO",
+    "Frontend/Angular/19+/06 Routing/09 Buenas Prácticas y estructura modular.md",
+    "Frontend/Angular/19+/06 Routing/07 Wildcard y ruta por defecto.md",
+    "Frontend/Angular/19+/06 Routing/08 Animaciones de rutas.md",
+    "Frontend/Angular/19+/06 Routing/06 Guards (Protección de rutas).md",
+    "Frontend/Angular/19+/06 Routing/05 Lazy loading.md",
+    "Frontend/Angular/19+/06 Routing/04 Rutas hijas.md",
+    "Frontend/Angular/19+/06 Routing/03 Parámetros en rutas.md",
+    "Frontend/Angular/19+/06 Routing/02 Navegación.md",
+    "Frontend/Angular/19+/06 Routing/01 Configuración Básica.md",
+    "Frontend/Angular/19+/06 Routing/00 Introducción al Routing.md",
+    "Frontend/Angular/19+/06 Routing",
+    "Frontend/Angular/Modulos/06 Routing/01 Configuración Básica.md",
+    "Frontend/Angular/Modulos/06 Routing/Routing de Angular.md",
+    "Frontend/Angular/Modulos/06 Routing/09 Buenas Prácticas y estructura modular.md",
+    "Frontend/Angular/Modulos/06 Routing/08 Animaciones de rutas.md",
+    "Frontend/Angular/Modulos/06 Routing/07 Wildcard y ruta por defecto.md",
+    "Frontend/Angular/Modulos/06 Routing/05 Lazy loading.md",
+    "Frontend/Angular/Modulos/06 Routing/06 Guards (Protección de rutas).md",
+    "Frontend/Angular/Modulos/06 Routing/04 Rutas hijas.md",
+    "Frontend/Angular/Modulos/06 Routing/03 Parámetros en rutas.md",
+    "Frontend/Angular/Modulos/06 Routing/02 Navegación.md",
+    "Frontend/Angular/Modulos/06 Routing/02 Navegación",
+    "Frontend/Angular/Modulos/06 Routing/00 Introducción al Routing.md",
+    "Frontend/Angular/19+/angular-cheat-sheet.pdf",
+    "Frontend/Angular/19+/Signal/00 Que es un Signal.md",
+    "Frontend/Angular/19+/Signal/Signal en Angular.md",
+    "Frontend/Angular/19+/Angular 19+.md",
+    "Frontend/Angular/Modulos/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas",
+    "Frontend/Angular/Modulos/01 Explicacion Angular/ANEXO/bloques-fundamentales.png",
+    "Frontend/Angular/Modulos/angular-cheat-sheet.pdf",
+    "CI-CD/Docker/02 Containers/comandos-basicos.pdf",
+    "CI-CD/Docker/01 Teoria/1-Introducción+a+Docker.pdf",
+    "Desarrollo de interfaces/API .NET/ANEXO/carpeta-sql.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/archivo.env.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/api-web-proyecto.png",
+    "Desarrollo de interfaces/API .NET/ANEXO/agregar-referencias.png",
+    "Backend/Spring/01 Inicio/04 Spring AOP y Aspectos.pdf",
+    "Backend/Spring/01 Inicio/03 Para que sirven los Spring Modules.pdf",
+    "Frontend/Angular/19+/Signal",
     "ProyectoTFC/BackEnd/ANEXO/zookeeperproperties-kafka.png",
     "ProyectoTFC/BackEnd/ANEXO/serverproperties-kafka.png",
-    "ProyectoTFC/BackEnd/ANEXO",
-    "ProyectoTFC/BackEnd/Estructuras y porque/01 - Monorepo para Microservicios.md",
-    "Frontend/Angular/angular-cheat-sheet.pdf",
     "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515232035.png",
     "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/pom-padre-modificado.png",
     "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515230832.png",
-    "ProyectoTFC/BackEnd/Maven Comandos.md",
-    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/pom.xml-limpio.png",
-    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515225238.png",
-    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO/Pasted image 20240515212443.png",
-    "ProyectoTFC/BackEnd/Estructuras y porque/ANEXO",
-    "ProyectoTFC/BackEnd/Estructuras y porque",
-    "Lenguajes/Java/Librerias-externas/MapStruct/MapStruct.md",
-    "ProyectoTFC/CD-CI",
-    "ProyectoTFC/BackEnd",
-    "ProyectoTFC",
-    "Desarrollo de interfaces/Accesibilidad/Enlaces.md",
-    "Desarrollo de interfaces/Accesibilidad",
-    "Lenguajes/Java/Librerias-externas/MapStruct/ANEXO/interface-mapper.png",
-    "Lenguajes/Java/Librerias-externas/MapStruct/ANEXO/interface-mapper.png",
-    "Lenguajes/Java/Librerias-externas/MapStruct/ANEXO",
-    "Android/SQLite-Android/SQLite.md",
-    "Lenguajes/Java/Librerias-externas/MapStruct",
-    "Backend/Spring/01 Inicio/Maven.md",
-    "Backend/Spring/01 Inicio/ORM.md",
-    "Backend/Spring/01 Inicio/Primer proyecto.md",
-    "Backend/Spring/01 Inicio/Anotaciones.md",
-    "Backend/Spring/01 Inicio/02 Container.md",
-    "Backend/Spring/01 Inicio/01 Spring.md",
-    "CI-CD/Docker/03 Containers avanzado/02 Network.md",
-    "CI-CD/Docker/03 Containers avanzado/01 Variables y Volúmenes.md",
-    "CI-CD/Docker/03 Containers avanzado/01 Variables.md",
-    "CI-CD/Docker/Docker.md",
-    "CI-CD/Docker/03 Containers avanzado/00 Puertos.md",
-    "CI-CD/Docker/02 Containers/Ejecutar comando contra container.md",
-    "CI-CD/Docker/02 Containers/Comandos.md",
-    "CI-CD/Docker/02 Containers/Container running.md",
-    "CI-CD/Docker/02 Containers/Docker.md",
-    "Sin título.canvas",
-    "CI-CD/Docker/00 Instalacion/00 Docker Windows.md",
-    "CI-CD/Docker/00 Instalacion/01 WSL.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/07 CircuitBreaker.md",
-    "Backend/Spring/02 Microservicios/00 Introduccion/04 ConfigServer.md",
-    "Frontend/Angular/01 Explicacion Angular/ANEXO/Bloques-Angular.canvas"
+    "Sin título.canvas"
   ]
 }

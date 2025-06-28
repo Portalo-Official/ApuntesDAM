@@ -9,7 +9,7 @@ Instalación: con [[07 npm|npm]]
 
 Es una interfaz de líneas de comandos para facilitar la creación en angular.
 
-Pdf Resumen de Comandos: [[angular-cheat-sheet.pdf]].
+Pdf Resumen de Comandos: [[Frontend/Angular/Modulos/angular-cheat-sheet.pdf]].
 
 ### Instalación global
 

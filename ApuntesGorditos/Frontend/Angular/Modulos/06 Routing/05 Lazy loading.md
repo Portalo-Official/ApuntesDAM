@@ -5,7 +5,7 @@ Primero de todo tenemos que tener un routing.ts main y otro secundario con rutas
 
 En la siguiente imagen, vemos una estructura de directorios de una aplicación donde tenemos el routing.ts principal (_1_) y uno secundario (_2_).
 
-![[Pasted image 20240219233230.png|300]]
+![[Frontend/Angular/Modulos/06 Routing/ANEXO/Pasted image 20240219233230.png|300]]
 ### Routing secundario
 El secundario (___2___) tendrá sus hijas y en el import tendrá un .forChild(routes):
 

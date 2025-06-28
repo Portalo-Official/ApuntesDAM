@@ -1,6 +1,6 @@
 Una vez instalado [[02 Paquete @angular_cli]]
 # Comandos
-siguiendo los comandos de [[angular-cheat-sheet.pdf]], vamos a perfilar parámetros
+siguiendo los comandos de [[Frontend/Angular/Modulos/angular-cheat-sheet.pdf]], vamos a perfilar parámetros
 
 ## No generar archivos
 
